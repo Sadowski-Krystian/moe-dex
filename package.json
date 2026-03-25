@@ -1,0 +1,27 @@
+{
+  "name": "moe-dex",
+  "version": "1.0.0",
+  "description": "A wholesome database and utility engine for moe anime characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sadowski-Krystian/moe-dex.git"
+  },
+  "keywords": [
+    "anime",
+    "moe",
+    "smol",
+    "gacha",
+    "database",
+    "character"
+  ],
+  "author": "gulgulglut (Krystian Sadowski)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sadowski-Krystian/moe-dex/issues"
+  },
+  "homepage": "https://github.com/Sadowski-Krystian/moe-dex#readme"
+}

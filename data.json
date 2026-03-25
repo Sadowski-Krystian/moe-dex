@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Senko",
+    "images": {
+      "default": "https://cdn.myanimelist.net/images/characters/5/379960.jpg"
+    },
+    "source": {
+      "titleEng": "The Helpful Fox Senko-san",
+      "titleRomaji": "Sewayaki Kitsune no Senko-san",
+      "titleJp": "世話やきキツネの仙狐さん",
+      "malUrl": "https://myanimelist.net/anime/38759/Sewayaki_Kitsune_no_Senko-san"
+    },
+    "attributes": {
+      "gender": "Female",
+      "species": "Kitsune",
+      "build": "smol",
+      "archetype": "Caring",
+      "traits": ["fox-ears", "tail", "miko", "fluffy"]
+    },
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 2,
+    "name": "Kanna Kamui",
+    "images": {
+      "default": "https://cdn.myanimelist.net/images/characters/2/325254.jpg"
+    },
+    "source": {
+      "titleEng": "Miss Kobayashi's Dragon Maid",
+      "titleRomaji": "Kobayashi-san Chi no Maid Dragon",
+      "titleJp": "小林さんちのメイドラゴン",
+      "malUrl": "https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon"
+    },
+    "attributes": {
+      "gender": "Female",
+      "species": "Dragon",
+      "build": "smol",
+      "archetype": "Quiet",
+      "traits": ["horns", "tail", "child-like"]
+    },
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 3,
+    "name": "Mitsukuni Haninozuka",
+    "images": {
+      "default": "https://cdn.myanimelist.net/images/characters/16/40810.jpg"
+    },
+    "source": {
+      "titleEng": "Ouran High School Host Club",
+      "titleRomaji": "Ouran Koukou Host Club",
+      "titleJp": "桜蘭高校ホスト部",
+      "malUrl": "https://myanimelist.net/anime/853/Ouran_Koukou_Host_Club"
+    },
+    "attributes": {
+      "gender": "Male",
+      "species": "Human",
+      "build": "smol",
+      "archetype": "Genki",
+      "traits": ["plushie", "sweet-tooth"]
+    },
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 4,
+    "name": "Koneko Toujou",
+    "images": {
+      "default": "https://cdn.myanimelist.net/images/characters/2/165985.jpg"
+    },
+    "source": {
+      "titleEng": "High School DxD",
+      "titleRomaji": "High School DxD",
+      "titleJp": "ハイスクールD×D",
+      "malUrl": "https://myanimelist.net/anime/11617/High_School_DxD"
+    },
+    "attributes": {
+      "gender": "Female",
+      "species": "Nekomata",
+      "build": "smol",
+      "archetype": "Kuudere",
+      "traits": ["cat-ears", "quiet", "strong"]
+    },
+    "metadata": {
+      "isSourceSafe": false,
+      "warningTags": ["Ecchi", "NSFW-Source"]
+    }
+  }
+]
