@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Senko",
     "images": {
-      "default": "https://cdn.myanimelist.net/images/characters/5/379960.jpg"
+      "default": "https://myanimelist.net/images/characters/12/387423.jpg"
     },
     "source": {
       "titleEng": "The Helpful Fox Senko-san",
@@ -12,12 +12,24 @@
       "malUrl": "https://myanimelist.net/anime/38759/Sewayaki_Kitsune_no_Senko-san"
     },
     "attributes": {
+      "age": {
+        "chronological": 800,
+        "appearance": null,
+        "isEstimated": true,
+        "display": "800+"
+      },
+      "heightCm": 125,
+      "weightKg": null,
       "gender": "Female",
       "species": "Kitsune",
       "build": "smol",
       "archetype": "Caring",
       "traits": ["fox-ears", "tail", "miko", "fluffy"]
     },
+    "trivia": [
+      "She absolutely loves fried tofu (aburaage).",
+      "Her tail is extremely fluffy and she considers letting someone touch it a special privilege."
+    ],
     "metadata": {
       "isSourceSafe": true,
       "warningTags": []
@@ -27,7 +39,7 @@
     "id": 2,
     "name": "Kanna Kamui",
     "images": {
-      "default": "https://cdn.myanimelist.net/images/characters/2/325254.jpg"
+      "default": "https://myanimelist.net/images/characters/2/322173.jpg"
     },
     "source": {
       "titleEng": "Miss Kobayashi's Dragon Maid",
@@ -36,12 +48,24 @@
       "malUrl": "https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon"
     },
     "attributes": {
+      "age": {
+        "chronological": null,
+        "appearance": 9,
+        "isEstimated": false,
+        "display": "9 (Appearance)"
+      },
+      "heightCm": 120,
+      "weightKg": null,
       "gender": "Female",
       "species": "Dragon",
       "build": "smol",
       "archetype": "Quiet",
       "traits": ["horns", "tail", "child-like"]
     },
+    "trivia": [
+      "She can recharge her magical energy by plugging her tail into a standard electrical wall outlet.",
+      "She has a habit of eating small bugs, crabs, and other creatures whole."
+    ],
     "metadata": {
       "isSourceSafe": true,
       "warningTags": []
@@ -51,7 +75,7 @@
     "id": 3,
     "name": "Mitsukuni Haninozuka",
     "images": {
-      "default": "https://cdn.myanimelist.net/images/characters/16/40810.jpg"
+      "default": "https://myanimelist.net/images/characters/13/48471.jpg"
     },
     "source": {
       "titleEng": "Ouran High School Host Club",
@@ -60,12 +84,24 @@
       "malUrl": "https://myanimelist.net/anime/853/Ouran_Koukou_Host_Club"
     },
     "attributes": {
+      "age": {
+        "chronological": 17,
+        "appearance": null,
+        "isEstimated": false,
+        "display": "17"
+      },
+      "heightCm": 148,
+      "weightKg": 41,
       "gender": "Male",
       "species": "Human",
       "build": "smol",
       "archetype": "Genki",
       "traits": ["plushie", "sweet-tooth"]
     },
+    "trivia": [
+      "Despite his extremely cute appearance, he is a martial arts champion who could easily defeat special forces soldiers.",
+      "He never goes anywhere without his pink bunny plushie, Usa-chan."
+    ],
     "metadata": {
       "isSourceSafe": true,
       "warningTags": []
@@ -75,7 +111,7 @@
     "id": 4,
     "name": "Koneko Toujou",
     "images": {
-      "default": "https://cdn.myanimelist.net/images/characters/2/165985.jpg"
+      "default": "https://myanimelist.net/images/characters/7/279778.jpg"
     },
     "source": {
       "titleEng": "High School DxD",
@@ -84,12 +120,24 @@
       "malUrl": "https://myanimelist.net/anime/11617/High_School_DxD"
     },
     "attributes": {
+      "age": {
+        "chronological": 15,
+        "appearance": null,
+        "isEstimated": false,
+        "display": "15"
+      },
+      "heightCm": 138,
+      "weightKg": 31,
       "gender": "Female",
       "species": "Nekomata",
       "build": "smol",
       "archetype": "Kuudere",
       "traits": ["cat-ears", "quiet", "strong"]
     },
+    "trivia": [
+      "She has a massive sweet tooth and is rarely seen without a snack.",
+      "She is incredibly strong and acts as the 'Rook' piece in Rias Gremory's peerage."
+    ],
     "metadata": {
       "isSourceSafe": false,
       "warningTags": ["Ecchi", "NSFW-Source"]
