@@ -1,7 +1,5 @@
 // src/filters.js
 
-const stringFilters = ['gender', 'species', 'excludeSpecies', 'archetype', 'sourceTitle'];
-
 function getEffectiveAge(char) {
     if (char.attributes.age.chronological !== null) {
         return char.attributes.age.chronological;
@@ -22,7 +20,7 @@ function applyFilters(characters, options) {
         }
     }
 
-    const stringFilters = ['gender', 'species', 'archetype', 'sourceTitle'];
+    const stringFilters = ['gender', 'species', 'excludeSpecies', 'archetype', 'sourceTitle', 'name'];
     for (const key of stringFilters) {
         if (options[key] !== undefined && typeof options[key] !== 'string') {
             throw new Error(`[Moe-Dex Error] Invalid filter type: '${key}' must be a string. Received ${typeof options[key]} instead.`);
@@ -39,6 +37,7 @@ function applyFilters(characters, options) {
             }
         }
     }
+
     if (options.excludeTraits !== undefined) {
         if (!Array.isArray(options.excludeTraits)) {
             throw new Error(`[Moe-Dex Error] Invalid filter type: 'excludeTraits' must be an array of strings.`);
@@ -79,7 +78,6 @@ function applyFilters(characters, options) {
         if (options.gender !== undefined && char.attributes.gender.toLowerCase() !== options.gender.toLowerCase()) return false;
 
         if (options.species !== undefined && char.attributes.species.toLowerCase() !== options.species.toLowerCase()) return false;
-
         if (options.excludeSpecies !== undefined && char.attributes.species.toLowerCase() === options.excludeSpecies.toLowerCase()) return false;
 
         if (options.archetype !== undefined && char.attributes.archetype.toLowerCase() !== options.archetype.toLowerCase()) return false;
@@ -91,6 +89,10 @@ function applyFilters(characters, options) {
             const matchJp = char.source.titleJp.toLowerCase().includes(searchStr);
             
             if (!matchEng && !matchRomaji && !matchJp) return false;
+        }
+
+        if (options.name !== undefined) {
+            if (!char.name.toLowerCase().includes(options.name.toLowerCase())) return false;
         }
 
         return true; 

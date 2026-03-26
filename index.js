@@ -1,4 +1,4 @@
-const characters = require('./data.json');
+const characters = require('./data/characters.json');
 const { applyFilters, getEffectiveAge } = require('./src/filters');
 
 function getAllCharacters() {
@@ -39,26 +39,56 @@ function searchCharacters(options = {}) {
         });
     }
 
+    let startIndex = 0;
+    if (options.offset !== undefined) {
+        if (typeof options.offset !== 'number') throw new Error("[Moe-Dex Error] 'offset' must be a number.");
+        if (options.offset < 0) throw new Error("[Moe-Dex Error] 'offset' cannot be negative.");
+        startIndex = options.offset;
+    }
+    
     if (options.limit !== undefined) {
         if (typeof options.limit !== 'number') throw new Error("[Moe-Dex Error] 'limit' must be a number.");
-        results = results.slice(0, options.limit);
+        if (options.limit <= 0) throw new Error("[Moe-Dex Error] 'limit' must be greater than 0.");
+        results = results.slice(startIndex, startIndex + options.limit);
+    } else if (startIndex > 0) {
+        results = results.slice(startIndex);
     }
 
-    return results; 
+    return results;
 }
 
 function getRandomCharacter(options = {}) {
     const filtered = applyFilters(characters, options);
-    
     if (filtered.length === 0) return null;
-    
     const randomIndex = Math.floor(Math.random() * filtered.length);
     return filtered[randomIndex];
+}
+
+function getAvailableTraits() {
+    const allTraits = new Set();
+    characters.forEach(char => {
+        if (char.attributes && Array.isArray(char.attributes.traits)) {
+            char.attributes.traits.forEach(trait => allTraits.add(trait));
+        }
+    });
+    return Array.from(allTraits).sort();
+}
+
+function getAvailableSpecies() {
+    const allSpecies = new Set();
+    characters.forEach(char => {
+        if (char.attributes && char.attributes.species) {
+            allSpecies.add(char.attributes.species);
+        }
+    });
+    return Array.from(allSpecies).sort();
 }
 
 module.exports = {
     getAllCharacters,
     getCharacterById,
     searchCharacters,
-    getRandomCharacter
+    getRandomCharacter,
+    getAvailableTraits,
+    getAvailableSpecies
 };
