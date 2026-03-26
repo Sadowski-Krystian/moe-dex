@@ -7,6 +7,19 @@ function getEffectiveAge(char) {
     return char.attributes.age.appearance;
 }
 
+function matchStringOrArray(charValue, filterValue, exactMatch = true) {
+    if (!charValue) return false;
+    const cVal = charValue.toLowerCase();
+    
+    if (Array.isArray(filterValue)) {
+        if (exactMatch) return filterValue.some(v => cVal === v.toLowerCase());
+        return filterValue.some(v => cVal.includes(v.toLowerCase()));
+    } else {
+        if (exactMatch) return cVal === filterValue.toLowerCase();
+        return cVal.includes(filterValue.toLowerCase());
+    }
+}
+
 function applyFilters(characters, options) {
     if (!options || typeof options !== 'object' || Array.isArray(options)) {
         return characters;
@@ -16,35 +29,31 @@ function applyFilters(characters, options) {
     const numberFilters = ['minAge', 'maxAge', 'minHeight', 'maxHeight', 'minWeight', 'maxWeight'];
     for (const key of numberFilters) {
         if (options[key] !== undefined && typeof options[key] !== 'number') {
-            throw new Error(`[Moe-Dex Error] Invalid filter type: '${key}' must be a number. Received ${typeof options[key]} instead.`);
+            throw new Error(`[Moe-Dex Error] Invalid filter type: '${key}' must be a number.`);
         }
     }
 
-    const stringFilters = ['gender', 'species', 'excludeSpecies', 'archetype', 'sourceTitle', 'name'];
-    for (const key of stringFilters) {
-        if (options[key] !== undefined && typeof options[key] !== 'string') {
-            throw new Error(`[Moe-Dex Error] Invalid filter type: '${key}' must be a string. Received ${typeof options[key]} instead.`);
-        }
-    }
-
-    if (options.traits !== undefined) {
-        if (!Array.isArray(options.traits)) {
-            throw new Error(`[Moe-Dex Error] Invalid filter type: 'traits' must be an array of strings.`);
-        }
-        for (const trait of options.traits) {
-            if (typeof trait !== 'string') {
-                throw new Error(`[Moe-Dex Error] Invalid filter type: Every item in 'traits' array must be a string.`);
+    const stringOrArrayFilters = ['gender', 'species', 'excludeSpecies', 'archetype', 'sourceTitle', 'name'];
+    for (const key of stringOrArrayFilters) {
+        if (options[key] !== undefined) {
+            if (typeof options[key] === 'string') {
+                // Jest ok
+            } else if (Array.isArray(options[key])) {
+                for (const item of options[key]) {
+                    if (typeof item !== 'string') throw new Error(`[Moe-Dex Error] Invalid filter type: '${key}' array must contain only strings.`);
+                }
+            } else {
+                throw new Error(`[Moe-Dex Error] Invalid filter type: '${key}' must be a string or an array of strings.`);
             }
         }
     }
 
-    if (options.excludeTraits !== undefined) {
-        if (!Array.isArray(options.excludeTraits)) {
-            throw new Error(`[Moe-Dex Error] Invalid filter type: 'excludeTraits' must be an array of strings.`);
-        }
-        for (const trait of options.excludeTraits) {
-            if (typeof trait !== 'string') {
-                throw new Error(`[Moe-Dex Error] Invalid filter type: Every item in 'excludeTraits' array must be a string.`);
+    const traitFilters = ['traits', 'excludeTraits'];
+    for (const key of traitFilters) {
+        if (options[key] !== undefined) {
+            if (!Array.isArray(options[key])) throw new Error(`[Moe-Dex Error] Invalid filter type: '${key}' must be an array of strings.`);
+            for (const trait of options[key]) {
+                if (typeof trait !== 'string') throw new Error(`[Moe-Dex Error] Invalid filter type: Every item in '${key}' must be a string.`);
             }
         }
     }
@@ -75,31 +84,26 @@ function applyFilters(characters, options) {
         if (options.minWeight !== undefined && (charWeight === null || charWeight < options.minWeight)) return false;
         if (options.maxWeight !== undefined && (charWeight === null || charWeight > options.maxWeight)) return false;
 
-        if (options.gender !== undefined && char.attributes.gender.toLowerCase() !== options.gender.toLowerCase()) return false;
-
-        if (options.species !== undefined && char.attributes.species.toLowerCase() !== options.species.toLowerCase()) return false;
-        if (options.excludeSpecies !== undefined && char.attributes.species.toLowerCase() === options.excludeSpecies.toLowerCase()) return false;
-
-        if (options.archetype !== undefined && char.attributes.archetype.toLowerCase() !== options.archetype.toLowerCase()) return false;
+        if (options.gender !== undefined && !matchStringOrArray(char.attributes.gender, options.gender)) return false;
+        if (options.species !== undefined && !matchStringOrArray(char.attributes.species, options.species)) return false;
+        if (options.excludeSpecies !== undefined && matchStringOrArray(char.attributes.species, options.excludeSpecies)) return false;
+        if (options.archetype !== undefined && !matchStringOrArray(char.attributes.archetype, options.archetype)) return false;
+        
+        if (options.name !== undefined && !matchStringOrArray(char.name, options.name, false)) return false;
 
         if (options.sourceTitle !== undefined) {
-            const searchStr = options.sourceTitle.toLowerCase();
-            const matchEng = char.source.titleEng.toLowerCase().includes(searchStr);
-            const matchRomaji = char.source.titleRomaji.toLowerCase().includes(searchStr);
-            const matchJp = char.source.titleJp.toLowerCase().includes(searchStr);
-            
+            const matchEng = matchStringOrArray(char.source.titleEng, options.sourceTitle, false);
+            const matchRomaji = matchStringOrArray(char.source.titleRomaji, options.sourceTitle, false);
+            const matchJp = matchStringOrArray(char.source.titleJp, options.sourceTitle, false);
             if (!matchEng && !matchRomaji && !matchJp) return false;
         }
-
-        if (options.name !== undefined) {
-            if (!char.name.toLowerCase().includes(options.name.toLowerCase())) return false;
+        if (options.anyTraits && options.anyTraits.length > 0) {
+            const hasAnyTrait = options.anyTraits.some(trait => char.attributes.traits.includes(trait));
+            if (!hasAnyTrait) return false;
         }
 
         return true; 
     });
 }
 
-module.exports = {
-    applyFilters,
-    getEffectiveAge
-};
+module.exports = { applyFilters, getEffectiveAge };

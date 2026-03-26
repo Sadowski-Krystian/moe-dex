@@ -1,4 +1,4 @@
-const characters = require('./data/characters.json');
+const characters = require('./data.json');
 const { applyFilters, getEffectiveAge } = require('./src/filters');
 
 function getAllCharacters() {
@@ -14,6 +14,8 @@ function getCharacterById(id) {
 
 function searchCharacters(options = {}) {
     let results = applyFilters(characters, options);
+
+    const totalCount = results.length;
 
     if (options.sortBy) {
         if (typeof options.sortBy !== 'string') throw new Error("[Moe-Dex Error] 'sortBy' must be a string.");
@@ -54,7 +56,11 @@ function searchCharacters(options = {}) {
         results = results.slice(startIndex);
     }
 
-    return results;
+    return {
+        totalCount: totalCount,         
+        returnedCount: results.length,  
+        data: results                   
+    };
 }
 
 function getRandomCharacter(options = {}) {
