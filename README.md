@@ -87,6 +87,8 @@ results.data.forEach(char => {
 | `name` | `string \| string[]` | Character name (partial match supported) |
 | `species` | `string \| string[]` | Species (e.g., "Kitsune", "Human") |
 | `excludeSpecies` | `string \| string[]` | Species to exclude from results |
+| `build` | `string \| string[]` | Body type (e.g., "smol", "chibi") |
+| `excludeBuild` | `string \| string[]` | Body types to exclude (NOT) |
 | `traits` | `string[]` | Traits the character **must** have (AND logic) |
 | `anyTraits` | `string[]` | Traits the character must have **at least one** of (OR logic) |
 | `excludeTraits`| `string[]` | Traits to exclude (NOT logic) |

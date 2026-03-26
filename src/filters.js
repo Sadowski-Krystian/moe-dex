@@ -33,7 +33,7 @@ function applyFilters(characters, options) {
         }
     }
 
-    const stringOrArrayFilters = ['gender', 'species', 'excludeSpecies', 'archetype', 'sourceTitle', 'name'];
+    const stringOrArrayFilters = ['gender', 'species', 'excludeSpecies', 'archetype', 'sourceTitle', 'name', 'build', 'excludeBuild'];
     for (const key of stringOrArrayFilters) {
         if (options[key] !== undefined) {
             if (typeof options[key] === 'string') {
@@ -101,6 +101,8 @@ function applyFilters(characters, options) {
             const hasAnyTrait = options.anyTraits.some(trait => char.attributes.traits.includes(trait));
             if (!hasAnyTrait) return false;
         }
+        if (options.build !== undefined && !matchStringOrArray(char.attributes.build, options.build)) return false;
+        if (options.excludeBuild !== undefined && matchStringOrArray(char.attributes.build, options.excludeBuild)) return false;
 
         return true; 
     });

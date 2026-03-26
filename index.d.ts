@@ -63,6 +63,9 @@ export interface SearchOptions {
     excludeTraits?: string[];
     anyTraits?: string[];
 
+    build?: string | string[];
+    excludeBuild?: string | string[];
+
     includeNSFWSource?: boolean;
 
     sortBy?: 'age' | 'height' | 'weight';
