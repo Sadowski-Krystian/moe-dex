@@ -1,5 +1,7 @@
 // src/filters.js
 
+const stringFilters = ['gender', 'species', 'excludeSpecies', 'archetype', 'sourceTitle'];
+
 function getEffectiveAge(char) {
     if (char.attributes.age.chronological !== null) {
         return char.attributes.age.chronological;
@@ -37,6 +39,16 @@ function applyFilters(characters, options) {
             }
         }
     }
+    if (options.excludeTraits !== undefined) {
+        if (!Array.isArray(options.excludeTraits)) {
+            throw new Error(`[Moe-Dex Error] Invalid filter type: 'excludeTraits' must be an array of strings.`);
+        }
+        for (const trait of options.excludeTraits) {
+            if (typeof trait !== 'string') {
+                throw new Error(`[Moe-Dex Error] Invalid filter type: Every item in 'excludeTraits' array must be a string.`);
+            }
+        }
+    }
 
     return characters.filter(char => {
         
@@ -45,6 +57,11 @@ function applyFilters(characters, options) {
         if (options.traits && options.traits.length > 0) {
             const hasAllTraits = options.traits.every(trait => char.attributes.traits.includes(trait));
             if (!hasAllTraits) return false;
+        }
+
+        if (options.excludeTraits && options.excludeTraits.length > 0) {
+            const hasExcludedTrait = options.excludeTraits.some(trait => char.attributes.traits.includes(trait));
+            if (hasExcludedTrait) return false;
         }
 
         const charAge = getEffectiveAge(char);
@@ -62,6 +79,8 @@ function applyFilters(characters, options) {
         if (options.gender !== undefined && char.attributes.gender.toLowerCase() !== options.gender.toLowerCase()) return false;
 
         if (options.species !== undefined && char.attributes.species.toLowerCase() !== options.species.toLowerCase()) return false;
+
+        if (options.excludeSpecies !== undefined && char.attributes.species.toLowerCase() === options.excludeSpecies.toLowerCase()) return false;
 
         if (options.archetype !== undefined && char.attributes.archetype.toLowerCase() !== options.archetype.toLowerCase()) return false;
 
