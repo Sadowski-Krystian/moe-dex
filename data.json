@@ -37,7 +37,7 @@
       "Miku is notoriously bad at cooking, though she works incredibly hard to improve for Futaro.",
       "Miku likes Matcha Soda.",
       "Miku's headphones are a design mix of the Audio-Technica M50x and AR3bt SE.",
-      "Miku's phone number is 090-69143-73641 and her email address is n.miku0505@socomo.ne.jp",
+      "Miku's phone number is 090-69143-73641 and her email address is n.miku0505@socomo.ne.jp.",
       "Miku's voice actress, Miku Itou shared same name as her character, but different Kanji's first name writing. Miku (美来) for her voice actress name & Miku (三玖) for her characters name."
     ],
     "metadata": {
@@ -314,6 +314,538 @@
       "She dislikes people that have a large bust except Toka Yada, her older sister Aguri Yukimura and later Irina Jelavić.",
       "Kayano is the one who gave Koro-sensei his current name, which he has used ever since.",
       "Kayano's inability to swim, her fixation on breasts and her love of sweets, are traits she shares with Korosensei and to a lesser extent, Itona, although she had her breast fixation even before the implantation. Her strong will, almost bordering on obsession, and drive once she decides to do something, however, is another key trait they share. "
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 8,
+    "name": "Nagisa Shiota",
+    "images": {
+      "default": "https://myanimelist.net/images/characters/7/303282.jpg"
+    },
+    "source": {
+      "titleEng": "Assassination Classroom",
+      "titleRomaji": "Ansatsu Kyoushitsu",
+      "titleJp": "暗殺教室",
+      "malUrl": "https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 7, 
+        "day": 20,
+        "display": "July 20th"
+      },
+      "age": {
+        "chronological": 15,
+        "appearance": 15,
+        "isEstimated": false,
+        "display": "15"
+      },
+      "heightCm": 159,
+      "weightKg": 48,
+      "gender": "Male",
+      "species": "Human",
+      "build": "very-slender",
+      "archetype": ["Dandere", "Assasin"],
+      "traits": ["blue-pigtails", "blue-eyes", "notetaker", "androgynous", "trap"]
+    },
+    "trivia": [
+      "Nagisa's favorite subject is English, and his least favorite subject is Science.",
+      "Nagisa's hobby is research - especially into Koro-sensei's characteristics and potential weaknesses.",
+      "Nagisa is the shortest male student of Class 3-E.",
+      "Nagisa is considered to be a \"herbivore\" (草食系, sōshoku-kei), a male who tends to be a pushover or overtly nice.",
+      "Nagisa's plans for the bounty are to find a way to grow taller.",
+      "Nagisa's past club before dropping to Class E was Concert Club."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 9,
+    "name": "Yukiko Kanzaki",
+    "images": {
+      "default": "https://myanimelist.net/images/characters/3/277386.jpg"
+    },
+    "source": {
+      "titleEng": "Assassination Classroom",
+      "titleRomaji": "Ansatsu Kyoushitsu",
+      "titleJp": "暗殺教室",
+      "malUrl": "https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 3, 
+        "day": 3,
+        "display": "March 3rd"
+      },
+      "age": {
+        "chronological": 15,
+        "appearance": 15,
+        "isEstimated": false,
+        "display": "15"
+      },
+      "heightCm": 159,
+      "weightKg": 46,
+      "gender": "Female",
+      "species": "Human",
+      "build": "slender",
+      "archetype": ["Dandere", "Yamato-Nadeshiko"],
+      "traits": ["long-black-hair", "soft-spoken", "gaming-pro", "school-uniform"]
+    },
+    "trivia": [
+      "Kanzaki's favorite subject is Japanese while her least favorite is Chemistry.",
+      "Kanzaki's hobby/specialty is computer games and games in general.",
+      "Kanzaki's favorite food is Wagashi, which is a traditional Japanese confectionery.",
+      "Kanzaki's future goal is to become a nurse/caregiver.",
+      "Kanzaki's past club before dropping to Class 3-E was the Ikebana Club.",
+      "Kanzaki's most treasured item is a copy of Gradius.",
+      "Kanzaki's most recently mastered gaming genre is FPS (first-person shooter), which serves as the basis for her assassination techniques."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 10,
+    "name": "Ayumu Kasuga",
+    "images": {
+      "default": "https://myanimelist.net/images/characters/3/27890.jpg"
+    },
+    "source": {
+      "titleEng": "Azumanga Daioh",
+      "titleRomaji": "Azumanga Daiou The Animation",
+      "titleJp": "あずまんが大王 THE ANIMATION",
+      "malUrl": "https://myanimelist.net/anime/66/Azumanga_Daiou_The_Animation"
+    },
+    "attributes": {
+      "birthday": {
+        "month": null, 
+        "day": null,
+        "display": "Unknown"
+      },
+      "age": {
+        "chronological": null,
+        "appearance": 16,
+        "isEstimated": false,
+        "display": "Official unknown, 16 appearance"
+      },
+      "heightCm": 156,
+      "weightKg": null,
+      "gender": "Female",
+      "species": "Human",
+      "build": "average",
+      "archetype": ["Airhead", "Genki-ish"],
+      "traits": ["brown-hair", "absent-minded", "soft-smile", "surreal-humor"]
+    },
+    "trivia": [
+      "Osaka speaks in the Osaka-ben dialect. When Tomo asked Osaka if she had lost her accent, she replies with \"O-ha\", which is Osaka-ben for \"Ohayou\" (Good morning) suggesting that she still uses some words in the Kansai dialect.",
+      "She likes fun facts, like \"grains of truths\".",
+      "Although her birthdate is not known, it's theorized that she was born in 1983-1984.",
+      "Osaka is shown to be bad at almost everything, ranging from schoolwork to P.E. (being able to become a P.E. teacher years later in spite of this). But she is good at riddle-solving, and (at least in the anime) is a quite decent singer."
+
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 11,
+    "name": "Chiyo Mihama",
+    "images": {
+      "default": "https://myanimelist.net/images/characters/13/35084.jpg"
+    },
+    "source": {
+      "titleEng": "Azumanga Daioh",
+      "titleRomaji": "Azumanga Daiou The Animation",
+      "titleJp": "あずまんが大王 THE ANIMATION",
+      "malUrl": "https://myanimelist.net/anime/66/Azumanga_Daiou_The_Animation"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 3, 
+        "day": null,
+        "display": "March"
+      },
+      "age": {
+        "chronological": 10,
+        "appearance": 10,
+        "isEstimated": false,
+        "display": "10"
+      },
+      "heightCm": 133,
+      "weightKg": null,
+      "gender": "Female",
+      "species": "Human",
+      "build": "smol",
+      "archetype": ["Genius-Girl", "Pure-Heart"],
+      "traits": ["pigtails", "school-uniform", "brown-eyes", "short-stature"]
+    },
+    "trivia": [
+      "She's 133 cm (about 4’4\") tall in the beginning, but she grows by the time the series ends. There was one scene where Osaka led Chiyo to think Sakaki, who is exceptionally tall, had stolen Chiyo's height. Chiyo begins leaping at Sakaki, most likely just for the fun of it, asking for her to return her height.",
+      "Chiyo was born in March 1989.",
+      "She claims her greatest weakness, aside from having poor athletic abilities, is that she is bad at tongue-twisters.",
+      "Chiyo is said to have an overactive imagination. Because of this, she hates stories about painful accidents, something Tomo doesn't hesitate to take advantage of.",
+      "Chiyo is sometimes called \"Chiyosuke\" by Yukari and Tomo, usually as a way of teasing her.",
+      "Chiyo uses \"-san\" to other students, but she only uses \"-chan\" to Tomo, which implies that she respects her less due to her childish behavior. Even in the English dub, Chiyo uses \"Miss/Ms.\" to other students, but calls Tomo just by her name."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 12,
+    "name": "Sakaki",
+    "images": {
+      "default": "https://myanimelist.net/images/characters/14/56155.jpg"
+    },
+    "source": {
+      "titleEng": "Azumanga Daioh",
+      "titleRomaji": "Azumanga Daiou The Animation",
+      "titleJp": "あずまんが大王 THE ANIMATION",
+      "malUrl": "https://myanimelist.net/anime/66/Azumanga_Daiou_The_Animation"
+    },
+    "attributes": {
+      "birthday": {
+        "month": null, 
+        "day": null,
+        "display": "Unknown"
+      },
+      "age": {
+        "chronological": null,
+        "appearance": 16,
+        "isEstimated": false,
+        "display": "Official unknown, 16 appearance"
+      },
+      "heightCm": 174,
+      "weightKg": null,
+      "gender": "Female",
+      "species": "Human",
+      "build": "tall",
+      "archetype": ["Kuudere", "Gentle-Giant"],
+      "traits": ["long-black-hair", "cat-lover", "shy", "stoic-face"]
+    },
+    "trivia": [
+      "Sakaki is 174 centimeters (approximately 5'8½\") tall and is still growing. According to Kiyohiko Azuma, she is about 180 cm tall by the end.",
+      "Sakaki is terrible at drawing.",
+      "Her ideal career choices were veterinarian, florist and plushie salesperson.",
+      "She usually blushes easily.",
+      "Sakaki's breasts are 8 cm (3.14 in) bigger than Tomo Takino's as said by the latter in episode 1. When Sakaki revealed how big they really were to Tomo and Osaka, they were shocked and said \"Is that even possible!?\"",
+      "Sakaki was supposedly born in 1984 (or 1983).",
+      "Sakaki appears in every episode except episode 3.",
+      "Sakaki can be considered the deuteragonist of the series, as she has the second-most screentime and focus besides Chiyo."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 13,
+    "name": "Mayoi Hachikuji",
+    "images": {
+      "default": "https://myanimelist.net/images/characters/5/222381.jpg"
+    },
+    "source": {
+      "titleEng": "Bakemonogatari",
+      "titleRomaji": "Bakemonogatari",
+      "titleJp": "化物語",
+      "malUrl": "https://myanimelist.net/anime/5081/Bakemonogatari"
+    },
+    "attributes": {
+      "birthday": {
+        "month": null, 
+        "day": null,
+        "display": "Unknown"
+      },
+      "age": {
+        "chronological": 21,
+        "appearance": 10,
+        "isEstimated": false,
+        "display": "21 (10 by appearance)"
+      },
+      "heightCm": 144,
+      "weightKg": null,
+      "gender": "Female",
+      "species": "Ghost",
+      "build": "smol",
+      "archetype": ["Tsundere-ish", "Wanderer"],
+      "traits": ["giant-backpack", "pigtails", "snail-motif", "school-swimsuit"]
+    },
+    "trivia": [
+      "Her family name before her parents got divorced was Tsunade (綱手).",
+      "Despite being a ghost, Mayoi cannot pass through walls, although she can restore her clothing into a pristine form if it receives any damage.",
+      "She doesn’t need to sleep nor eat but she can still choose to do so if she wanted to.",
+      "Her twin tail hair is meant to resemble a snail's antenna and her backpack as the snail’s shell. Without her backpack, she effectively becomes a “slug”.",
+      "Her backpack contains her pajamas.",
+      "Mayoi is the only main female character to never be depicted as having short hair in the series.",
+      "Mayoi refers to her audience as \"lolicool\" in the audio commentary tracks."
+    ],
+    "metadata": {
+      "isSourceSafe": false,
+      "warningTags": ["ghost-existence", "tragic-backstory", "violence-in-source"]
+    }
+  },
+  {
+    "id": 14,
+    "name": "Naru Kotoishi",
+    "images": {
+      "default": "https://myanimelist.net/images/characters/14/271093.jpg"
+    },
+    "source": {
+      "titleEng": "Barakamon",
+      "titleRomaji": "Barakamon",
+      "titleJp": "ばらかもん",
+      "malUrl": "https://myanimelist.net/anime/22789/Barakamon"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 7, 
+        "day": 21,
+        "display": "August 21st"
+      },
+      "age": {
+        "chronological": 7,
+        "appearance": 7,
+        "isEstimated": false,
+        "display": "7"
+      },
+      "heightCm": null,
+      "weightKg": null,
+      "gender": "Female",
+      "species": "Human",
+      "build": "smol",
+      "archetype": ["Genki", "Child"],
+      "traits": ["messy-hair", "missing-tooth", "barefoot", "energetic"]
+    },
+    "trivia": [
+      "Naru loves beetles.",
+      "Naru shares her name with Naru Island, one of the Goto Islands in Japan."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 15,
+    "name": "Mage",
+    "images": {
+      "default": "https://myanimelist.net/images/characters/5/316853.jpg"
+    },
+    "source": {
+      "titleEng": "Bikini Warriors",
+      "titleRomaji": "Bikini Warriors",
+      "titleJp": "ビキニ・ウォリアーズ",
+      "malUrl": "https://myanimelist.net/anime/30782/Bikini_Warriors"
+    },
+    "attributes": {
+      "birthday": {
+        "month": null, 
+        "day": null,
+        "display": "Unknown"
+      },
+      "age": {
+        "chronological": null,
+        "appearance": 13,
+        "isEstimated": true,
+        "display": "Official unknown, 13 appearance"
+      },
+      "heightCm": null,
+      "weightKg": null,
+      "gender": "Female",
+      "species": "Human",
+      "build": "shortstack",
+      "archetype": ["Kuudere", "Mage"],
+      "traits": ["oversized-hat", "purple-hair", "bikini-armor", "magic-staff"]
+    },
+    "trivia": [],
+    "metadata": {
+      "isSourceSafe": false,
+      "warningTags": ["ecchi", "fanservice", "nudity"]
+    }
+  },
+  {
+    "id": 16,
+    "name": "Orihime Inoue",
+    "images": {
+      "default": "https://myanimelist.net/images/characters/9/505076.jpg"
+    },
+    "source": {
+      "titleEng": "Bleach",
+      "titleRomaji": "Bleach",
+      "titleJp": "BLEACH - ブリーチ -",
+      "malUrl": "https://myanimelist.net/anime/269/Bleach"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 9, 
+        "day": 3,
+        "display": "September 3rd"
+      },
+      "age": {
+        "chronological": 15,
+        "appearance": 15,
+        "isEstimated": false,
+        "display": "15"
+      },
+      "heightCm": 157,
+      "weightKg": 45,
+      "gender": "Female",
+      "species": "Human",
+      "build": "curvaceous",
+      "archetype": ["Airhead", "Healer", "Deretsudere"],
+      "traits": ["orange-hair", "hairpins", "voluptuous", "daydreamer"]
+    },
+    "trivia": [
+      "The color of Orihime's eyes vary from the manga to the anime. They are shown as brown in the manga while the anime depicts them as silver or gray."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 17,
+    "name": "Kobato Hasegawa",
+    "images": {
+      "default": "https://myanimelist.net/images/characters/8/126895.jpg"
+    },
+    "source": {
+      "titleEng": "Haganai: I don't have many friends",
+      "titleRomaji": "Boku wa Tomodachi ga Sukunai",
+      "titleJp": "僕は友達が少ない",
+      "malUrl": "https://myanimelist.net/anime/10719/Boku_wa_Tomodachi_ga_Sukunai"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 10, 
+        "day": 18,
+        "display": "October 18th"
+      },
+      "age": {
+        "chronological": 13,
+        "appearance": 13,
+        "isEstimated": false,
+        "display": "13"
+      },
+      "heightCm": 138,
+      "weightKg": 44,
+      "gender": "Female",
+      "species": "Human",
+      "build": "smol",
+      "archetype": ["Chuunibyou", "Imouto", "Dandere"],
+      "traits": ["gothic-lolita", "heterochromia-contact", "blonde-hair", "stuffed-rabbit"]
+    },
+    "trivia": [
+      "Just like her brother, Kobato's surname, Hasegawa (羽瀬川) literally means \"Shallow River of Feathers\".",
+      "Kobato's given name (小鳩) means \"Little Dove\".",
+      "Kobato claims to have access to the Akashic Records.",
+      "Kobato once said that she prefers Pepsi over coca cola.",
+      "Before becoming obsessed and influenced by her favorite anime. Her old hobbies include breaking chopsticks with her buttocks; this was not mentioned in the anime adaptation.",
+      "When in her vampire persona, Kobato would use \"Ware\" when referring to herself and would call Kodaka \"my other half\". However, when she reverts back to her normal personality, she would use \"ucchi\" (An Osaka dialect) to refer to herself and would call Kodaka \"An-chan\".",
+      "Kobato's favorite foods are meat dishes and pork ramen with lots of garlic.",
+      "In episode 2 of Boku wa Tomodachi ga Sukunai NEXT, the character in Sena's galge physically resembles Kobato."
+    ],
+    "metadata": {
+      "isSourceSafe": false,
+      "warningTags": ["ecchi", "nudity"]
+    }
+  },
+  {
+    "id": 18,
+    "name": "Maria Takayama",
+    "images": {
+      "default": "https://myanimelist.net/images/characters/15/178131.jpg"
+    },
+    "source": {
+      "titleEng": "Haganai: I don't have many friends",
+      "titleRomaji": "Boku wa Tomodachi ga Sukunai",
+      "titleJp": "僕は友達が少ない",
+      "malUrl": "https://myanimelist.net/anime/10719/Boku_wa_Tomodachi_ga_Sukunai"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 3, 
+        "day": 23,
+        "display": "March 23rd"
+      },
+      "age": {
+        "chronological": 10,
+        "appearance": 10,
+        "isEstimated": false,
+        "display": "10"
+      },
+      "heightCm": 136,
+      "weightKg": 33,
+      "gender": "Female",
+      "species": "Human",
+      "build": "smol",
+      "archetype": ["Loli", "Nun", "Genius-Child"],
+      "traits": ["silver-hair", "blue-eyes", "nun-habit", "junk-food-lover", "foul-mouth"]
+    },
+    "trivia": [
+      "Maria's surname, Takayama ( 高山 ) literally means \"Tall Mountain\".",
+      "Maria's surname, Takayama and her Catholic background may also be an allusion to the famous Christian-Daimiyo during the Sengoku (Japanese warring states era) period, Dom Justo Takayama.",
+      "Maria was voiced by Yuka Iguchi, who provided the voice of Index in the To Aru Majutsu no Index series. Like Maria, Index is a nun-in-training, they also look and behave very similar to each other.",
+      "The meaning of Maria's given name in Hebrew means \"sea of bitterness\" or \"sea of sorrow.\" Some alternated meaning may mean \"rebellion\" or \"wished-for-child\". True to this, Maria's past is indeed rather bitter due to her attitude. Also, it could describe Maria's rebellious attitude. Kodaka comments in the manga that it's fitting that a nun is called Maria. This is because the first Catholics to set foot in Japan were from Portugal and so the Japanese for Mary is Maria just like in every country with Catholic influences.",
+      "Maria's favorite food is potato chips, and she also seems to have a liking for Nikujaga (Japanese Meat and Potato Stew).",
+      "The Neighbor's club-room was originally used by Maria for her afternoon naps.",
+      "Although in the anime, it was depicted that Maria was rude and constantly insults Yozora when asked to use the club-room before Yozora had enough of it and slapped Maria. In the manga and Light Novel, this event never really happened and hence, placed Maria in a better light than perceived in the anime.",
+      "After Aoi's and Kate's proclamation of Maria never becoming a nun and a teacher in the first place, the latter is just as confused and shocked as her fellow club members.",
+      "It was noted by Kodaka that Maria has larger breasts than that of Kobato's, much to the latter's chagrin.",
+      "Like with Kodaka, Maria is also a fan of the manga adaptation of the \"Romance of the Three Kingdoms\" series, where her favorite commander is Zhuge Liang, until Kodaka preached her of the achievements and merits of Zhang Liao and Wei Yan. As a result, Kodaka and Maria now share the same favorite commanders in the said series."
+    ],
+    "metadata": {
+      "isSourceSafe": false,
+      "warningTags": ["ecchi", "nudity"]
+    }
+  },
+  {
+    "id": 19,
+    "name": "Sakura Kinomoto",
+    "images": {
+      "default": "https://myanimelist.net/images/characters/5/86417.jpg"
+    },
+    "source": {
+      "titleEng": "Cardcaptor Sakura",
+      "titleRomaji": "Cardcaptor Sakura",
+      "titleJp": "カードキャプターさくら",
+      "malUrl": "https://myanimelist.net/anime/232/Cardcaptor_Sakura"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 4, 
+        "day": 1,
+        "display": "April 1st"
+      },
+      "age": {
+        "chronological": 10,
+        "appearance": 10,
+        "isEstimated": false,
+        "display": "10"
+      },
+      "heightCm": 138,
+      "weightKg": null,
+      "gender": "Female",
+      "species": "Human",
+      "build": "smol",
+      "archetype": ["Magical-Girl", "Genki", "Pure-Heart"],
+      "traits": ["short-brown-hair", "green-eyes", "roller-skates", "magical-wand", "costumes"]
+    },
+    "trivia": [
+      "She and her Japanese voice actress Sakura Tange share the name \"Sakura\". ",
+      "In the English Dub, her name was originally going to be changed to Nikki, but this was decided against.",
+      "Whenever she's distracted or shocked, she says \"Hoeeee!\" which is what she says in the Tokyopop manga although it's later changed to \"Phwee?\".",
+      "Sometimes, during cheer-leading practice, especially during baton throwing, Sakura will occasionally get distracted, causing the baton to hit her on the head which seems to be a running gag in the series.",
+      "Sakura has achieved notable popularity in Japan. In both 1999 and 2000, she won the Animage Grand Prix for Best Female Character. She also won the Anime Saimoe Tournament 2002."
     ],
     "metadata": {
       "isSourceSafe": true,
