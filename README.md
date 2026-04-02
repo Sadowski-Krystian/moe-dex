@@ -132,3 +132,5 @@ To maintain the highest data quality, every character added to **Moe-Dex** must 
 3. **Submit PR:** In your Pull Request, briefly mention why the character passed the Moe Checklist.
 
 *Note: Characters with 0-2 points will be rejected to keep the Dex pure.*
+
+*Note: Packet will be publishet after database have over 50/100 characters.*
