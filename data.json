@@ -851,5 +851,135 @@
       "isSourceSafe": true,
       "warningTags": []
     }
+  },
+  {
+    "id": 20,
+    "name": "Ayumi Otosaka",
+    "images": {
+      "default": "https://myanimelist.net/images/characters/4/288021.jpg"
+    },
+    "source": {
+      "titleEng": "Charlotte",
+      "titleRomaji": "Charlotte",
+      "titleJp": "シャーロット",
+      "malUrl": "https://myanimelist.net/anime/28999/Charlotte"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 10, 
+        "day": 14,
+        "display": "October 14th"
+      },
+      "age": {
+        "chronological": 12,
+        "appearance": 12,
+        "isEstimated": false,
+        "display": "12"
+      },
+      "heightCm": 145,
+      "weightKg": null,
+      "gender": "Female",
+      "species": "Human",
+      "build": "smol",
+      "archetype": ["Imouto", "Genki", "Pure-Heart"],
+      "traits": ["brunette", "pizza-sauce", "idol-fan", "star-gazer", "apron"]
+    },
+    "trivia": [
+      "Ayumi adds pizza sauce to each and every single dish to help remind Yū Otosaka of their mother. It is also likely Maeda's reoccurring theme of the family \"bad food/sauce\" seen in Clannad and Kanon.",
+      "Ayumi often gets nosebleeds when overly excited.",
+      "Ayumi came back in Plunder since Yū and the others managed to use Yū's looted ability of time leaping.",
+      "Ayumi is a very big fan of Yusa Nishimori and the band How-Low-Hello or Haro-Haro."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": ["character-tragedy"]
+    }
+  },
+  {
+    "id": 21,
+    "name": "Himeko Jougasaki",
+    "images": {
+      "default": "https://static.wikia.nocookie.net/chibi-maruko-chan/images/7/76/Jogasaki_artwork_series2_01.png/revision/latest?cb=20250402194612"
+    },
+    "source": {
+      "titleEng": "Chibi Maruko-chan",
+      "titleRomaji": "Chibi Maruko-chan",
+      "titleJp": "ちびまる子ちゃん",
+      "malUrl": "https://myanimelist.net/anime/951/Chibi_Maruko-chan"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 4, 
+        "day": 18,
+        "display": "April 18th"
+      },
+      "age": {
+        "chronological": null,
+        "appearance": 8,
+        "isEstimated": false,
+        "display": "Official unknown, 8 appearance"
+      },
+      "heightCm": null,
+      "weightKg": null,
+      "gender": "Female",
+      "species": "Human",
+      "build": "smol",
+      "archetype": ["Ojou-sama", "Child-arch", "Tsundere-ish"],
+      "traits": ["curl-pigtails", "pink-ribbons", "pink-dress", "rich-girl"]
+    },
+    "trivia": [
+      "Jogasaki-san's favorite foods are chocolate parfait and french toast.",
+      "Jogasaki-san's favorite musical act is Candies.",
+      "Jogasaki-san's favorite sport is tennis.",
+      "Jogasaki-san dreams of becoming a stewardess and seeing the world."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 25,
+    "name": "Rikka Takanashi",
+    "images": {
+      "default": "https://myanimelist.net/images/characters/2/257273.jpg"
+    },
+    "source": {
+      "titleEng": "Love, Chunibyo & Other Delusions!",
+      "titleRomaji": "Chuunibyou demo Koi ga Shitai!",
+      "titleJp": "中二病でも恋がしたい！",
+      "malUrl": "https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 6, 
+        "day": 12,
+        "display": "June 12th"
+      },
+      "age": {
+        "chronological": 15,
+        "appearance": 15,
+        "isEstimated": false,
+        "display": "15"
+      },
+      "heightCm": 150,
+      "weightKg": 47,
+      "gender": "Female",
+      "species": "Human",
+      "build": "smol",
+      "archetype": ["Chuunibyou", "Dandere", "Pure-Heart"],
+      "traits": ["eyepatch", "ahoge", "heterochromia-contact", "roller-shoes", "umbrella"]
+    },
+    "trivia": [
+      "Rikka shares her birthday (June 12) with her English voice actress, Margaret McDonald.",
+      "She became a chunibyo after watching Yuuta/Dark Flame Master since she and Toka moved into their apartment in episode 10.",
+      "Rikka is the club leader of the Far Eastern Magic Nap Society (of Summer).",
+      "Rikka has the same voice actress as Koito Minase from the Musaigen no Phantom World series, another anime produced by Kyoto Animation."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": ["character-grief"]
+    }
   }
+
 ]
