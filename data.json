@@ -980,6 +980,90 @@
       "isSourceSafe": true,
       "warningTags": ["character-grief"]
     }
+  },
+  {
+    "id": 23,
+    "name": "Fuko Ibuki",
+    "images": {
+      "default": "https://myanimelist.net/images/characters/2/79593.jpg"
+    },
+    "source": {
+      "titleEng": "Clannad",
+      "titleRomaji": "Clannad",
+      "titleJp": "クラナド",
+      "malUrl": "https://myanimelist.net/anime/2167/Clannad"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 7, 
+        "day": 20,
+        "display": "July 20th"
+      },
+      "age": {
+        "chronological": 15,
+        "appearance": 15,
+        "isEstimated": true,
+        "display": "15"
+      },
+      "heightCm": 150,
+      "weightKg": 41,
+      "gender": "Female",
+      "species": "Human",
+      "build": "smol",
+      "archetype": ["Dandere", "Pure-Heart", "Supernatural"],
+      "traits": ["starfish", "long-hair", "hair-ribbon", "school-uniform", "wood-carving"]
+    },
+    "trivia": [
+      "Fuko's theme song is Hurry, Starfish.",
+      "The name Fuko means \"wind\" (風) (fu) and \"child\" (子) (ko), which literally means \"Child of Wind\" altogether.",
+      "Fuko's surname Ibuki means \"that one\" (伊) (i) and \"blowing\" (吹) (fuki/buki)."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": ["character-tragedy", "coma"]
+    }
+  },
+  {
+    "id": 24,
+    "name": "Nagisa Furukawa",
+    "images": {
+      "default": "https://myanimelist.net/images/characters/3/300961.jpg"
+    },
+    "source": {
+      "titleEng": "Clannad",
+      "titleRomaji": "Clannad",
+      "titleJp": "クラナド",
+      "malUrl": "https://myanimelist.net/anime/2167/Clannad"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 12, 
+        "day": 24,
+        "display": "December 24th"
+      },
+      "age": {
+        "chronological": 19,
+        "appearance": 19,
+        "isEstimated": true,
+        "display": "19"
+      },
+      "heightCm": 155,
+      "weightKg": 43,
+      "gender": "Female",
+      "species": "Human",
+      "build": "petite-arch",
+      "archetype": ["Dandere", "Pure-Heart", "Tragic-Heroine"],
+      "traits": ["ahoge", "dango-fan", "weak-constitution", "short-hair"]
+    },
+    "trivia": [
+      "Nagisa either has a verbal tic or speaks politely as she tends to end her sentences with \"desu\" (です).",
+      "The name Nagisa means \"beach, shore, water's edge\" (渚).",
+      "Nagisa's surname Furukawa means \"old, antiquity, ancient time, used, secondhand\" (古) (furu) and \"river, stream\" (河) (kawa). "
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": ["character-tragedy", "chronic-illness"]
+    }
   }
 
 ]
