@@ -1,4 +1,4 @@
-[
+[ 
   {
     "id": 2,
     "name": "Miku Nakano",
@@ -160,7 +160,7 @@
       "weightKg": 499,
       "gender": "Female",
       "species": "Robot",
-      "build": "slender-avatar",
+      "build": "slender",
       "archetype": ["Genki", "Artificial-Intelligence"],
       "traits": ["digital-avatar", "purple-hair", "school-uniform", "shapeshifter"]
     },
@@ -348,7 +348,7 @@
       "weightKg": 48,
       "gender": "Male",
       "species": "Human",
-      "build": "very-slender",
+      "build": "petite",
       "archetype": ["Dandere", "Assasin"],
       "traits": ["blue-pigtails", "blue-eyes", "notetaker", "androgynous", "trap"]
     },
@@ -662,7 +662,7 @@
       "weightKg": null,
       "gender": "Female",
       "species": "Human",
-      "build": "shortstack",
+      "build": "curvy",
       "archetype": ["Kuudere", "Mage"],
       "traits": ["oversized-hat", "purple-hair", "bikini-armor", "magic-staff"]
     },
@@ -700,7 +700,7 @@
       "weightKg": 45,
       "gender": "Female",
       "species": "Human",
-      "build": "curvaceous",
+      "build": "curvy",
       "archetype": ["Airhead", "Healer", "Deretsudere"],
       "traits": ["orange-hair", "hairpins", "voluptuous", "daydreamer"]
     },
@@ -1051,7 +1051,7 @@
       "weightKg": 43,
       "gender": "Female",
       "species": "Human",
-      "build": "petite-arch",
+      "build": "petite",
       "archetype": ["Dandere", "Pure-Heart", "Tragic-Heroine"],
       "traits": ["ahoge", "dango-fan", "weak-constitution", "short-hair"]
     },
