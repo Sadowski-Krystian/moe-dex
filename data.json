@@ -285,7 +285,7 @@
       "weightKg": 53,
       "gender": "Male",
       "species": "Human",
-      "build": "athletic",
+      "build": "average",
       "archetype": ["Kuudere", "Artificer"],
       "traits": ["white-hair", "bandana", "golden-eyes", "tech-wizard"]
     },
@@ -588,7 +588,7 @@
       "weightKg": null,
       "gender": "Female",
       "species": "Human",
-      "build": "tall",
+      "build": "slender",
       "archetype": ["Kuudere", "Gentle-Giant"],
       "traits": ["long-black-hair", "cat-lover", "shy", "stoic-face"]
     },
@@ -737,7 +737,7 @@
       "weightKg": null,
       "gender": "Female",
       "species": "Human",
-      "build": "curvy",
+      "build": "petite",
       "archetype": ["Kuudere", "Mage"],
       "traits": ["oversized-hat", "purple-hair", "bikini-armor", "magic-staff"]
     },
@@ -780,7 +780,7 @@
       "weightKg": 45,
       "gender": "Female",
       "species": "Human",
-      "build": "curvy",
+      "build": "average",
       "archetype": ["Airhead", "Healer", "Deretsudere"],
       "traits": ["orange-hair", "hairpins", "voluptuous", "daydreamer"]
     },
