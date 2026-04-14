@@ -1,7 +1,11 @@
 [ 
   {
     "id": 2,
-    "name": "Miku Nakano",
+    "name":{
+      "romaji": "Miku Nakano",
+      "kanji": "中野 三玖",
+      "kana": "なかの みく"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/15/507743.jpg"
     },
@@ -47,7 +51,11 @@
   },
   {
     "id": 2,
-    "name": "Nagomi Wahira",
+    "name": {
+      "romaji": "Nagomi Wahira",
+      "kanji": "和平 なごみ",
+      "kana": "わひり なごみ"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/8/492560.jpg"
     },
@@ -90,7 +98,11 @@
   },
   {
     "id": 3,
-    "name": "Meiko \"Menma\" Honma",
+    "name": {
+      "romaji": "Honma Meiko (Menma)",
+      "kanji": "本間 芽衣子 (めんま) ",
+      "kana": "ほんあいだ めころもこ (めんま)"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/16/115711.jpg"
     },
@@ -134,7 +146,11 @@
   },
   {
     "id": 4,
-    "name": "Ritsu",
+    "name": {
+      "romaji": "Ritsu",
+      "kanji": "律",
+      "kana": "りつ"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/7/277977.jpg"
     },
@@ -182,7 +198,11 @@
   },
   {
     "id": 5,
-    "name": "Hinano Kurahashi",
+    "name": {
+      "romaji": "Hinano Kurahashi",
+      "kanji": "倉橋 陽菜乃",
+      "kana": "くらはし ひなの"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/8/274908.jpg"
     },
@@ -229,7 +249,11 @@
   },
   {
     "id": 6,
-    "name": "Itona Horibe",
+    "name": {
+      "romaji": "Itona Horibe",
+      "kanji": "堀部 糸成",
+      "kana": "ほりべ いとな"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/13/288506.jpg"
     },
@@ -276,7 +300,11 @@
   },
   {
     "id": 7,
-    "name": "Kaede Kayano",
+    "name": {
+      "romaji": "Kaede Kayano",
+      "kanji": "茅野 カエデ",
+      "kana": "かやの カエデ"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/6/274395.jpg"
     },
@@ -322,7 +350,11 @@
   },
   {
     "id": 8,
-    "name": "Nagisa Shiota",
+    "name": {
+      "romaji": "Nagisa Shiota",
+      "kanji": "潮田 渚",
+      "kana": "しおた なぎさ"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/7/303282.jpg"
     },
@@ -367,7 +399,11 @@
   },
   {
     "id": 9,
-    "name": "Yukiko Kanzaki",
+    "name": {
+      "romaji": "Yukiko Kanzaki",
+      "kanji": "神崎 有希子",
+      "kana": "かんざき ゆきこ"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/3/277386.jpg"
     },
@@ -413,7 +449,11 @@
   },
   {
     "id": 10,
-    "name": "Ayumu Kasuga",
+    "name": {
+      "romaji": "Ayumu Kasuga",
+      "kanji": "春日歩",
+      "kana": "かすが あゆむ"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/3/27890.jpg"
     },
@@ -457,7 +497,11 @@
   },
   {
     "id": 11,
-    "name": "Chiyo Mihama",
+    "name": {
+      "romaji": "Chiyo Mihama",
+      "kanji": "美浜 ちよ",
+      "kana": "みはま ちよ"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/13/35084.jpg"
     },
@@ -502,7 +546,11 @@
   },
   {
     "id": 12,
-    "name": "Sakaki",
+    "name": {
+      "romaji": "Sakaki",
+      "kanji": "榊",
+      "kana": "さかき"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/14/56155.jpg"
     },
@@ -549,7 +597,11 @@
   },
   {
     "id": 13,
-    "name": "Mayoi Hachikuji",
+    "name": {
+      "romaji": "Mayoi Hachikuji",
+      "kanji": "八九寺 真宵",
+      "kana": "はちくじ まよい"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/5/222381.jpg"
     },
@@ -595,7 +647,11 @@
   },
   {
     "id": 14,
-    "name": "Naru Kotoishi",
+    "name": {
+      "romaji": "Naru Kotoishi",
+      "kanji": "琴石 なる",
+      "kana": "こといし なる"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/14/271093.jpg"
     },
@@ -636,7 +692,11 @@
   },
   {
     "id": 15,
-    "name": "Mage",
+    "name": {
+      "romaji": "Mage",
+      "kanji": null,
+      "kana": "メイジ"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/5/316853.jpg"
     },
@@ -674,7 +734,11 @@
   },
   {
     "id": 16,
-    "name": "Orihime Inoue",
+    "name": {
+      "romaji": "Orihime Inoue",
+      "kanji": "井上 織姫",
+      "kana": "いのうえ おりひめ"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/9/505076.jpg"
     },
@@ -714,7 +778,11 @@
   },
   {
     "id": 17,
-    "name": "Kobato Hasegawa",
+    "name": {
+      "romaji": "Kobato Hasegawa",
+      "kanji": "羽瀬川 小鳩",
+      "kana": "はせがわ こばと"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/8/126895.jpg"
     },
@@ -761,7 +829,11 @@
   },
   {
     "id": 18,
-    "name": "Maria Takayama",
+    "name": {
+      "romaji": "Maria Takayama",
+      "kanji": "高山 マリア",
+      "kana": "たかやま まりあ"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/15/178131.jpg"
     },
@@ -810,7 +882,11 @@
   },
   {
     "id": 19,
-    "name": "Sakura Kinomoto",
+    "name": {
+      "romaji": "Sakura Kinomoto",
+      "kanji": "木之本 桜",
+      "kana": "きのもと さくら"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/5/86417.jpg"
     },
@@ -854,7 +930,11 @@
   },
   {
     "id": 20,
-    "name": "Ayumi Otosaka",
+    "name": {
+      "romaji": "Ayumi Otosaka",
+      "kanji": "乙坂 歩未",
+      "kana": "おとさか あゆみ"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/4/288021.jpg"
     },
@@ -897,7 +977,11 @@
   },
   {
     "id": 21,
-    "name": "Himeko Jougasaki",
+    "name": {
+      "romaji": "Himeko Jougasaki",
+      "kanji": "城ヶ崎 姫子",
+      "kana": "じょうがさき ひめこ"
+    },
     "images": {
       "default": "https://static.wikia.nocookie.net/chibi-maruko-chan/images/7/76/Jogasaki_artwork_series2_01.png/revision/latest?cb=20250402194612"
     },
@@ -940,7 +1024,11 @@
   },
   {
     "id": 22,
-    "name": "Rikka Takanashi",
+    "name": {
+      "romaji": "Rikka Takanashi",
+      "kanji": "小鳥遊 六花",
+      "kana": "たかなし りっか"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/2/257273.jpg"
     },
@@ -983,7 +1071,11 @@
   },
   {
     "id": 23,
-    "name": "Fuko Ibuki",
+    "name": {
+      "romaji": "Fuko Ibuki",
+      "kanji": "伊吹風子",
+      "kana": "いぶき ふうこ"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/2/79593.jpg"
     },
@@ -1025,7 +1117,11 @@
   },
   {
     "id": 24,
-    "name": "Nagisa Furukawa",
+    "name": {
+      "romaji": "Nagisa Furukawa",
+      "kanji": "岡崎渚",
+      "kana": "おかざき なぎさ"
+    },
     "images": {
       "default": "https://myanimelist.net/images/characters/3/300961.jpg"
     },
@@ -1063,6 +1159,178 @@
     "metadata": {
       "isSourceSafe": true,
       "warningTags": ["character-tragedy", "chronic-illness"]
+    }
+  },
+  {
+    "id": 25,
+    "name": {
+      "romaji": "Kaoruko Moeta",
+      "kanji": "萌田 薫子",
+      "kana": "もえた かおるこ"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/8/332891.jpg"
+    },
+    "source": {
+      "titleEng": "Comic Girls",
+      "titleRomaji": "Comic Girls",
+      "titleJp": "こみっくがーるず",
+      "malUrl": "https://myanimelist.net/anime/35756/Comic_Girls"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 4, 
+        "day": 1,
+        "display": "April 1st"
+      },
+      "age": {
+        "chronological": 15,
+        "appearance": 11,
+        "isEstimated": false,
+        "display": "15"
+      },
+      "heightCm": null,
+      "weightKg": null,
+      "gender": "Female",
+      "species": "Human",
+      "build": "smol",
+      "archetype": ["Dandere", "Mangaka", "Crybaby"],
+      "traits": ["pink-hair", "glasses", "tablet", "pigtails"]
+    },
+    "trivia": [
+      "Kaoruko hates veggies and fruits.",
+      "Kaoruko really likes getting scolded by Miharu Nijino.",
+      "Kaoruko has a pet named \"Nyaos-chan\" named after her because of how similar they look."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 26,
+    "name": {
+      "romaji": "Alyssa",
+      "kanji": null,
+      "kana": "アリッサ"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/16/511453.jpg"
+    },
+    "source": {
+      "titleEng": "The Family Circumstances of the Imbalanced Witch",
+      "titleRomaji": "Dekoboko Majo no Oyako Jijou",
+      "titleJp": "でこぼこ魔女の親子事情",
+      "malUrl": "https://myanimelist.net/anime/52985/Dekoboko_Majo_no_Oyako_Jijou"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 5, 
+        "day": 5,
+        "display": "May 5th"
+      },
+      "age": {
+        "chronological": 223,
+        "appearance": 9,
+        "isEstimated": false,
+        "display": "223"
+      },
+      "heightCm": 135,
+      "weightKg": null,
+      "gender": "Female",
+      "species": "Witch",
+      "build": "smol",
+      "archetype": ["Mother", "Airhead"],
+      "traits": ["witch-hat", "blonde-hair", "tiny-stature", "parent"]
+    },
+    "trivia": [
+      "Alyssa is the oldest witch amongst her friend group, but is however also the shortest."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 27,
+    "name": {
+      "romaji": "Hestia",
+      "kanji": null,
+      "kana": "ヘスティア"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/16/285883.jpg"
+    },
+    "source": {
+      "titleEng": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+      "titleRomaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+      "titleJp": "ダンジョンに出会いをもとめるのは間違っているだろうか",
+      "malUrl": "https://myanimelist.net/anime/28121/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka"
+    },
+    "attributes": {
+      "birthday": null,
+      "age": {
+        "chronological": null,
+        "appearance": 14,
+        "isEstimated": true,
+        "display": "Official unknown, 14 appearance"
+      },
+      "heightCm": 140,
+      "weightKg": null,
+      "gender": "Female",
+      "species": "Deity",
+      "build": "smol",
+      "archetype": ["Genki", "Jealous-Type", "Goddess"],
+      "traits": ["blue-ribbon", "twin-tails", "black-hair", "short-stature"]
+    },
+    "trivia": [
+      "In Heaven, she refused courtship with males. Hestia, Athena, and Artemis were known as the Big 3 Virgin Goddesses.",
+      "Hestia is named after the Greek goddess of the hearth.",
+      "Vesta is the second name of Hestia, and it is a reference to the sacred eternal fire and the Roman goddess of the hearth, home, and family."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 28,
+    "name": {
+      "romaji": "Wiene",
+      "kanji": null,
+      "kana": "ウィーネ"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/6/512538.jpg"
+    },
+    "source": {
+      "titleEng": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+      "titleRomaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+      "titleJp": "ダンジョンに出会いをもとめるのは間違っているだろうか",
+      "malUrl": "https://myanimelist.net/anime/40454/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_III"
+    },
+    "attributes": {
+      "birthday": null,
+      "age": {
+        "chronological": 0,
+        "appearance": 9,
+        "isEstimated": true,
+        "display": "0"
+      },
+      "heightCm": 130,
+      "weightKg": null,
+      "gender": "Female",
+      "species": "Xenos (Vouivre)",
+      "build": "smol",
+      "archetype": ["Child-arch", "Monster-Girl", "Pure-Heart"],
+      "traits": ["blue-skin-accents", "silver-hair", "red-jewel-on-forehead", "claws", "wings"]
+    },
+    "trivia": [
+      "Wiene's name was given to her by Bell. Bell originally suggested Welusine, but it was shortened to Wiene. His inspiration came from the tale of the Melusine."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
     }
   }
 
