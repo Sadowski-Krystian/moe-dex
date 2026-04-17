@@ -179,7 +179,7 @@
       "heightCm": 170,
       "weightKg": 499,
       "gender": "Female",
-      "species": "Robot",
+      "species": "Automaton",
       "build": "slender",
       "archetype": ["Genki", "Artificial-Intelligence"],
       "traits": ["digital-avatar", "purple-hair", "school-uniform", "shapeshifter"]
@@ -639,7 +639,7 @@
       "heightCm": 144,
       "weightKg": null,
       "gender": "Female",
-      "species": "Ghost",
+      "species": "Spirit",
       "build": "smol",
       "archetype": ["Tsundere-ish", "Wanderer"],
       "traits": ["giant-backpack", "pigtails", "snail-motif", "school-swimsuit"]
@@ -1264,7 +1264,7 @@
       "heightCm": 135,
       "weightKg": null,
       "gender": "Female",
-      "species": "Witch",
+      "species": "Human",
       "build": "smol",
       "archetype": ["Mother", "Airhead"],
       "traits": ["witch-hat", "blonde-hair", "tiny-stature", "parent"]
@@ -1348,7 +1348,7 @@
       "heightCm": 130,
       "weightKg": null,
       "gender": "Female",
-      "species": "Xenos (Vouivre)",
+      "species": "Dragon",
       "build": "smol",
       "archetype": ["Child-arch", "Monster-Girl", "Pure-Heart"],
       "traits": ["blue-skin-accents", "silver-hair", "red-jewel-on-forehead", "claws", "wings"]
@@ -1356,6 +1356,378 @@
     "trivia": [
       "Wiene's name was given to her by Bell. Bell originally suggested Welusine, but it was shortened to Wiene. His inspiration came from the tale of the Melusine."
     ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 29,
+    "name": {
+      "romaji": "Aries",
+      "kanji": null,
+      "kana": "アリエス"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/14/106807.jpg"
+    },
+    "source": {
+      "titleEng": "Fairy Tail",
+      "titleRomaji": "Fairy Tail",
+      "titleJp": "フェアリーテイル",
+      "malUrl": "https://myanimelist.net/anime/6702/Fairy_Tail"
+    },
+    "attributes": {
+      "birthday": null,
+      "age": {
+        "chronological": null,
+        "appearance": 18,
+        "isEstimated": true,
+        "display": "Official unknown, 18 appearance"
+      },
+      "heightCm": 165,
+      "weightKg": null,
+      "gender": "Female",
+      "species": "Spirit",
+      "build": "average",
+      "archetype": ["Dandere", "Submissive", "Apologetic"],
+      "traits": ["horns", "fluffy-wool-clothes", "pink-hair", "brown-eyes"]
+    },
+    "trivia": [
+      "The astrological sign Aries means Ram, a male sheep, whose wool was known more famously as the Golden Fleece. Aries, however, is a female, and uses pink wool."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 30,
+    "name": {
+      "romaji": "Levy McGarden",
+      "kanji": null,
+      "kana": "レビィ・マグガーデン"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/7/186859.jpg"
+    },
+    "source": {
+      "titleEng": "Fairy Tail",
+      "titleRomaji": "Fairy Tail",
+      "titleJp": "フェアリーテイル",
+      "malUrl": "https://myanimelist.net/anime/6702/Fairy_Tail"
+    },
+    "attributes": {
+      "birthday": null,
+      "age": {
+        "chronological": 17,
+        "appearance": 17,
+        "isEstimated": false,
+        "display": "17"
+      },
+      "heightCm": 155,
+      "weightKg": null,
+      "gender": "female",
+      "species": "human",
+      "build": "smol",
+      "archetype": ["Bookworm", "Genki-lite", "Pure-Heart"],
+      "traits": ["blue-hair", "headband", "glasses", "script-magic"]
+    },
+    "trivia": [
+      "SLevy's guild mark color was initially white, but was later changed to orange",
+      "According to Hiro Mashima, Levy was initially planned to be a mere background character."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 31,
+    "name": {
+      "romaji": "Mavis Vermillion",
+      "kanji": null,
+      "kana": "メイビス・ヴァーミリオン"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/16/586073.jpg"
+    },
+    "source": {
+      "titleEng": "Fairy Tail",
+      "titleRomaji": "Fairy Tail",
+      "titleJp": "フェアリーテイル",
+      "malUrl": "https://myanimelist.net/anime/6702/Fairy_Tail"
+    },
+    "attributes": {
+      "birthday": null,
+      "age": {
+        "chronological": 118,
+        "appearance": 13,
+        "isEstimated": false,
+        "display": "118 (Appearance 13)"
+      },
+      "heightCm": 140,
+      "weightKg": null,
+      "gender": "female",
+      "species": "spirit",
+      "build": "smol",
+      "archetype": ["Genki-lite", "Strategist", "Pure-Heart"],
+      "traits": ["very-long-hair", "wing-like-ears", "barefoot", "ethereal-body"]
+    },
+    "trivia": [
+      "Originally, Mavis was supposed to be an \"old-grandpa\" male. However, after Mashima found out that Mavis is a female name, he immediately redesigned Mavis to be a girl. Her being a small child was also something he wanted to be \"unexpected\" to the readers.",
+      "Mavis being more incorporated in the story was due to the unexpected popularity from the readers' impressions."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 32,
+    "name": {
+      "romaji": "Mirajane Strauss",
+      "kanji": null,
+      "kana": "ミラジェーン・ストラウス"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/15/196491.jpg"
+    },
+    "source": {
+      "titleEng": "Fairy Tail",
+      "titleRomaji": "Fairy Tail",
+      "titleJp": "フェアリーテイル",
+      "malUrl": "https://myanimelist.net/anime/6702/Fairy_Tail"
+    },
+    "attributes": {
+      "birthday": null,
+      "age": {
+        "chronological": 19,
+        "appearance": 19,
+        "isEstimated": false,
+        "display": "19"
+      },
+      "heightCm": 165,
+      "weightKg": null,
+      "gender": "female",
+      "species": "demon",
+      "build": "average",
+      "archetype": ["Onee-sama", "Gap-Moe", "Sweetheart"],
+      "traits": ["white-hair", "ponytail-front", "blue-dress", "transformation-magic"]
+    },
+    "trivia": [
+      "Mirajane's likes include cooking. Her dislikes include cockroaches.",
+      "Her name comes from parodying the username of Hiro Mashima's friend from an online game. The first half of her name, Mira,' means \"peace.\"",
+      "She considers Plue to be the strongest spirit ever.",
+      "She's good at cooking, as stated by Lisanna.",
+      "Mirajane's favorite food is Kuzumochi because, according to her, the texture of the food is irresistible."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 33,
+    "name": {
+      "romaji": "Wendy Marvell",
+      "kanji": null,
+      "kana": "ウェンディ・マーベル"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/11/196497.jpg"
+    },
+    "source": {
+      "titleEng": "Fairy Tail",
+      "titleRomaji": "Fairy Tail",
+      "titleJp": "フェアリーテイル",
+      "malUrl": "https://myanimelist.net/anime/6702/Fairy_Tail"
+    },
+    "attributes": {
+      "birthday": null,
+      "age": {
+        "chronological": 12,
+        "appearance": 12,
+        "isEstimated": false,
+        "display": "12"
+      },
+      "heightCm": null,
+      "weightKg": null,
+      "gender": "female",
+      "species": "human",
+      "build": "smol",
+      "archetype": ["Dandere", "Sky-Dragon-Slayer", "Pure-Heart"],
+      "traits": ["dark-blue-hair", "twin-tails", "cat-companion", "healing-magic"]
+    },
+    "trivia": [
+      "Wendy's likes include Carla. Wendy's dislikes include umeboshi (Japanese for \"pickled plums\").",
+      "The original concept of Wendy showed her possessing a wand, and her Cait Shelter tattoo was located on her left shoulder instead of her right.",
+      "The anime had Wendy cameo in episodes before her actual debut in the manga.",
+      "Wendy was originally going to be a older female Dragon Slayer but Hiro Mashima wanted to implant his plan of adding a \"cute, little warrior\" eventually, surmising it to be in Wendy's character.",
+      "Wendy was originally set to be the Water Dragon Slayer.",
+      "Wendy's name started while she was set to be the Water Dragon Slayer, starting with the kanji for water \"水\", to the Japanese word for Wednesday \"水曜日\", to the rōmaji of Wednesday in English (ウェンズデイ Wenzudei), to Wendy (ウェンディ Wendi).",
+      "Wendy dislikes Umeboshi (pickled plums) to an extent where she can be influenced at the sight of others eating them."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 34,
+    "name": {
+      "romaji": "Astolfo",
+      "kanji": null,
+      "kana": "アストルフォ"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/12/321733.jpg"
+    },
+    "source": {
+      "titleEng": "Fate/Apocrypha",
+      "titleRomaji": "Fate/Apocrypha",
+      "titleJp": "フェイト/アポクリファ",
+      "malUrl": "https://myanimelist.net/anime/34662/Fate_Apocrypha"
+    },
+    "attributes": {
+      "birthday": null,
+      "age": {
+        "chronological": null,
+        "appearance": 18,
+        "isEstimated": true,
+        "display": "Official unknown, 18 appearance"
+      },
+      "heightCm": 164,
+      "weightKg": 56,
+      "gender": "male",
+      "species": "spirit",
+      "build": "petite",
+      "archetype": ["Genki", "Carefree", "Androgynous"],
+      "traits": ["pink-hair", "braid", "hair-ribbons", "yaeba", "paladin-armor"]
+    },
+    "trivia": [],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 35,
+    "name": {
+      "romaji": "Fiore Forvedge Yggdmillennia",
+      "kanji": null,
+      "kana": "フィオレ・フォルヴェッジ・ユグドミレニア"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/5/334237.jpg"
+    },
+    "source": {
+      "titleEng": "Fate/Apocrypha",
+      "titleRomaji": "Fate/Apocrypha",
+      "titleJp": "フェイト/アポクリファ",
+      "malUrl": "https://myanimelist.net/anime/34662/Fate_Apocrypha"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 6, 
+        "day": 12,
+        "display": "July 12th"
+      },
+      "age": {
+        "chronological": 19,
+        "appearance": 19,
+        "isEstimated": false,
+        "display": "19"
+      },
+      "heightCm": 162,
+      "weightKg": 47,
+      "gender": "female",
+      "species": "human",
+      "build": "petite",
+      "archetype": ["Dandere", "Ojo-sama", "Pure-Heart"],
+      "traits": ["wheelchair", "long-brown-hair", "blue-eyes", "bronze-link-manipulator"]
+    },
+    "trivia": [],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 36,
+    "name": {
+      "romaji": "Jeanne d'Arc",
+      "kanji": null,
+      "kana": "ジャンヌ・ダルク"
+    },
+    "images": {
+      "default": "hhttps://myanimelist.net/images/characters/4/317698.jpg"
+    },
+    "source": {
+      "titleEng": "Fate/Apocrypha",
+      "titleRomaji": "Fate/Apocrypha",
+      "titleJp": "フェイト/アポクリファ",
+      "malUrl": "https://myanimelist.net/anime/34662/Fate_Apocrypha"
+    },
+    "attributes": {
+      "birthday": null,
+      "age": {
+        "chronological": 19,
+        "appearance": 19,
+        "isEstimated": false,
+        "display": "19"
+      },
+      "heightCm": 159,
+      "weightKg": 44,
+      "gender": "female",
+      "species": "spirit",
+      "build": "average",
+      "archetype": ["Holy-Maiden", "Pure-Heart", "Leader"],
+      "traits": ["blonde-hair", "long-braid", "armored-dress", "holy-flag"]
+    },
+    "trivia": [],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 37,
+    "name": {
+      "romaji": "Illyasviel von Einzbern",
+      "kanji": null,
+      "kana": "イリヤスフィール・フォン・アインツベルン"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/14/346384.jpg"
+    },
+    "source": {
+      "titleEng": "Fate/stay night",
+      "titleRomaji": "Fate/stay night",
+      "titleJp": "フェイト/ステイナイト",
+      "malUrl": "https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 11, 
+        "day": 20,
+        "display": "November 20th"
+      },
+      "age": {
+        "chronological": 18,
+        "appearance": 10,
+        "isEstimated": false,
+        "display": "18"
+      },
+      "heightCm": 133,
+      "weightKg": 34,
+      "gender": "female",
+      "species": "human",
+      "build": "smol",
+      "archetype": ["Imouto", "Ojo-sama", "Yandere-lite"],
+      "traits": ["white-hair", "red-eyes", "purple-outfit", "magic-circuits"]
+    },
+    "trivia": [],
     "metadata": {
       "isSourceSafe": true,
       "warningTags": []
