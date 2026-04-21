@@ -1970,5 +1970,133 @@
       "isSourceSafe": true,
       "warningTags": []
     }
+  },
+  {
+    "id": 43,
+    "name": {
+      "romaji": "Chino Kafū",
+      "kanji": "香風 智乃",
+      "kana": "かふう ちの"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/16/244251.jpg"
+    },
+    "source": {
+      "titleEng": "Is the Order a Rabbit?",
+      "titleRomaji": "Gochuumon wa Usagi Desu ka?",
+      "titleJp": "ご注文はうさぎですか？",
+      "malUrl": "https://myanimelist.net/anime/21273/Gochuumon_wa_Usagi_Desu_ka"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 12, 
+        "day": 4,
+        "display": "December 4th"
+      },
+      "age": {
+        "chronological": 13,
+        "appearance": 13,
+        "isEstimated": false,
+        "display": "13"
+      },
+      "heightCm": 144,
+      "weightKg": null,
+      "gender": "female",
+      "species": "human",
+      "build": "smol",
+      "archetype": ["Kuudere", "Working-Girl", "Dandere"],
+      "traits": ["light-blue-hair", "tippy-on-head", "cafe-uniform", "soft-spoken"]
+    },
+    "trivia": [
+      "Chino is jealous of Cocoa's social skills, her smile, and the attention she gets.",
+      "Her hobby is to make bottled ships.",
+      "Chino's drawing style is cubism.",
+      "She hates celery, but tries to force herself to eat it since she was led to believe it would help her grow.",
+      "She likes Anko after meeting him and having him sit on her head.",
+      "While the manga states her mother died at an early age, the anime leaves it ambiguous.",
+      "Alcoholic-filled chocolate makes her act like a little sister character. Whenever this happens, she gets very embarrassed when she snaps out of it. It is also worth noting that she does remember what happened while she was drunk.",
+      "Chino is able to recognize every coffee by its aroma.",
+      "She is able to fortune-tell out of cappuccinos.",
+      "Chino claims to be able to work much better with Anko or Tippy on her head.",
+      "In the future, Chino wants to be a barista.",
+      "The phone Chino owns is a Sony Xperia SP.",
+      "13-year-old Chino is exactly 10 cm shorter than her voice actor Minase Inori.",
+      "Chino likes the smell of coffee, green tea, herbal tea and bread. She also likes Cocoa's smell, claiming it calms her.",
+      "Chino is very skilled at singing.",
+      "She likes fairy-tales such as \"Puss in Boots\".",
+      "Chino likes trees.",
+      "Most of the time rabbits run away from her.",
+      "The reason Chino always talks in a very formal way is because she was usually surrounded by customers and older people when she was younger which then remained as a habit.",
+      "Chino admires \"The Phantom Thief Lapin\".",
+      "She is really good at staying concentrated because she has been balancing both work and school for a long time already.",
+      "She has left the town only once in her entire life.",
+      "Chino can't swim.",
+      "She is really bad at telling horror stories.",
+      "The color of Chino's winter uniform at work has been confirmed to be \"Cobalt Blue\".",
+      "With Chino going to Cocoa's school, the new trio will be Chino, Cocoa and Chiya whose names all begin with the letter \"C\".",
+      "Erina from “Rabi Ribi” was modeled after her.",
+      "Chino is a Sagittarius being born on December 4th",
+      "Her birthday is only two days after her voice actress' (Inori Minase) birthday, December 2nd."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 44,
+    "name": {
+      "romaji": "Cocoa Hoto",
+      "kanji": "保登 心愛",
+      "kana": "ほと ここあ"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/11/242945.jpg"
+    },
+    "source": {
+      "titleEng": "Is the Order a Rabbit?",
+      "titleRomaji": "Gochuumon wa Usagi Desu ka?",
+      "titleJp": "ご注文はうさぎですか？",
+      "malUrl": "https://myanimelist.net/anime/21273/Gochuumon_wa_Usagi_Desu_ka"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 4, 
+        "day": 10,
+        "display": "April 10th"
+      },
+      "age": {
+        "chronological": 15,
+        "appearance": 15,
+        "isEstimated": false,
+        "display": "15"
+      },
+      "heightCm": 154,
+      "weightKg": null,
+      "gender": "female",
+      "species": "human",
+      "build": "smol",
+      "archetype": ["Genki", "Big-Sister-Complex", "Airhead"],
+      "traits": ["orange-pink-hair", "cherry-blossom-hairpin", "cafe-uniform", "high-energy"]
+    },
+    "trivia": [
+      "She has a poor sense of direction.",
+      "Bread is the only food she can make right.",
+      "Her home is somewhere deep in the mountains.",
+      "She goes to the same school as Chiya.",
+      "She hates tomato juice.",
+      "She is skilled in physics and math, because of that she is very skilled at solving crosswords.",
+      "Her phone is a Fujitsu F-01C",
+      "In the past, Cocoa played a toy piano.",
+      "Cocoa can sing and play the accordion very well. Except not both at once: if she tries to play and sing at the same time, the sound is rather unpleasant, but if she's doing one or the other, it's good.",
+      "She is really fond of prime numbers and as a result has an exceptional grasp of it, making her able to quickly count a high amount of it.",
+      "Her first dream was to be a magician.",
+      "She is very popular among children and can handle them very well.",
+      "Her dream is becoming \"International barista lawyer and novel writer\" or being called \"older sister\"."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
   }
 ]
