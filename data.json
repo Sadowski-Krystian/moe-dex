@@ -1607,8 +1607,8 @@
     },
     "trivia": [],
     "metadata": {
-      "isSourceSafe": true,
-      "warningTags": []
+      "isSourceSafe": false,
+      "warningTags": ["violence-in-source"]
     }
   },
   {
@@ -1649,8 +1649,8 @@
     },
     "trivia": [],
     "metadata": {
-      "isSourceSafe": true,
-      "warningTags": []
+      "isSourceSafe": false,
+      "warningTags": ["violence-in-source"]
     }
   },
   {
@@ -1687,8 +1687,8 @@
     },
     "trivia": [],
     "metadata": {
-      "isSourceSafe": true,
-      "warningTags": []
+      "isSourceSafe": false,
+      "warningTags": ["violence-in-source"]
     }
   },
   {
@@ -1729,9 +1729,246 @@
     },
     "trivia": [],
     "metadata": {
+      "isSourceSafe": false,
+      "warningTags": ["violence-in-source"]
+    }
+  },
+{
+    "id": 38,
+    "name": {
+      "romaji": "Sakura Matou",
+      "kanji": "間桐 桜",
+      "kana": "まとう さくら"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/14/294277.jpg"
+    },
+    "source": {
+      "titleEng": "Fate/stay night: Heaven's Feel",
+      "titleRomaji": "Fate/stay night: Heaven's Feel",
+      "titleJp": "フェイト/ステイナイト ヘブンズフィール",
+      "malUrl": "https://myanimelist.net/anime/25537/Fate_stay_night_Movie__Heavens_Feel_I_Presage_Flower"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 3, 
+        "day": 2,
+        "display": "March 2nd"
+      },
+      "age": {
+        "chronological": 16,
+        "appearance": 16,
+        "isEstimated": false,
+        "display": "16"
+      },
+      "heightCm": 156,
+      "weightKg": 46,
+      "gender": "female",
+      "species": "human",
+      "build": "average",
+      "archetype": ["Dandere", "Kohai", "Tragic-Heroine"],
+      "traits": ["purple-hair", "pink-ribbon", "school-uniform", "cooking-expert"]
+    },
+    "trivia": [],
+    "metadata": {
+      "isSourceSafe": false,
+      "warningTags": ["violence-in-source"]
+    }
+  },
+  {
+    "id": 39,
+    "name": {
+      "romaji": "Tohru Honda",
+      "kanji": "本田 透",
+      "kana": "ほんだ とおる"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/2/384113.jpg"
+    },
+    "source": {
+      "titleEng": "Fruits Basket",
+      "titleRomaji": "Fruits Basket",
+      "titleJp": "フルーツバスケット",
+      "malUrl": "https://myanimelist.net/anime/38680/Fruits_Basket_1st_Season"
+    },
+    "attributes": {
+      "birthday": null,
+      "age": {
+        "chronological": 16,
+        "appearance": 16,
+        "isEstimated": false,
+        "display": "16"
+      },
+      "heightCm": 156,
+      "weightKg": 46,
+      "gender": "female",
+      "species": "human",
+      "build": "average",
+      "archetype": ["Pure-Heart", "Airhead", "Optimist"],
+      "traits": ["brown-hair", "school-uniform", "blue-ribbons", "kind-eyes"]
+    },
+    "trivia": [
+      "Tohru is fiercely self-reliant and pays for all of her own school expenses and clothes from her part-time salary. In connection to this, she works at Momiji’s father’s company building as a cleaner. ",
+      "Tohru chooses clothes based on how sturdy and practical they are, rather than their looks, so she dresses very plainly. Natsuki Takaya mentions that Tohru is quite “unfashionable”. ",
+      "Tohru receives presents from Shigure quite often.",
+      "The boys that teased her when she was younger presumably did it because they liked her.",
+      "Tohru is very quick to respond when people come down with colds since her father died of complications from a cold. But when she gets sick herself, she is slower to react.",
+      "Tohru is a very good cook, and can cook about any dish; Japanese, Western, or Chinese.",
+      "She is also very good at cleaning, as she got Shigure’s “disaster of a kitchen” under control in the blink of an eye."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 40,
+    "name": {
+      "romaji": "Gabriel White Tenma",
+      "kanji": null,
+      "kana": "天真・ガブリエル・ホワイト"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/5/324085.jpg"
+    },
+    "source": {
+      "titleEng": "Gabriel DropOut",
+      "titleRomaji": "Gabriel DropOut",
+      "titleJp": "ガヴリールドロップアウト",
+      "malUrl": "https://myanimelist.net/anime/33731/Gabriel_DropOut"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 4, 
+        "day": 20,
+        "display": "April 20th"
+      },
+      "age": {
+        "chronological": null,
+        "appearance": 15,
+        "isEstimated": true,
+        "display": "Official unknown, 15 appearance"
+      },
+      "heightCm": 144,
+      "weightKg": 40,
+      "gender": "female",
+      "species": "angel",
+      "build": "smol",
+      "archetype": ["Hikikomori", "Lazy-Angel", "Gap-Moe"],
+      "traits": ["blonde-hair", "messy-hair", "angel-halo", "gaming-headset"]
+    },
+    "trivia": [
+      "Her name is based on the archangel Gabriel. However, the name \"Gabriel\" is masculine rather than feminine. Many women use its feminine forms, such as Gabrielle or 'Gabriela. ",
+      "She shares the same voice actress as Yume Nijino from Aikatsu Stars!, who also has a pink ombré and blonde hair.",
+      "She shares the same voice actress as Crimvael from Interspecies Reviewers, who is also an angel and has blonde hair.",
+      "Her younger sister Haniel shares the same voice actress as Ichigo Hoshimiya from the idol anime Aikatsu!, as well as Tsubasa Kisaragi from Aikatsu's successor Aikatsu Stars!",
+      "Gabriel's life as a Fallen Angel does not affect her physical strength, as she is able to break down doors and knock out Satania with one hit. However, she no longer has the stamina she once had and cannot perform demanding physical activity for long."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 41,
+    "name": {
+      "romaji": "Satanichia Kurumizawa McDowell",
+      "kanji": null,
+      "kana": "胡桃沢・サタニキア・マクドウェル"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/12/339560.jpg"
+    },
+    "source": {
+      "titleEng": "Gabriel DropOut",
+      "titleRomaji": "Gabriel DropOut",
+      "titleJp": "ガヴリールドロップアウト",
+      "malUrl": "https://myanimelist.net/anime/33731/Gabriel_DropOut"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 8, 
+        "day": 15,
+        "display": "August 15th"
+      },
+      "age": {
+        "chronological": null,
+        "appearance": 15,
+        "isEstimated": true,
+        "display": "Official unknown, 15 appearance"
+      },
+      "heightCm": 157,
+      "weightKg": 46,
+      "gender": "female",
+      "species": "demon",
+      "build": "petite",
+      "archetype": ["Chuunibyou-lite", "Loser-Heroine", "Genki"],
+      "traits": ["red-hair", "bat-hair-clip", "melon-pan-addict", "clumsy"]
+    },
+    "trivia": [
+      "Satania is taste deaf as is shown in both episode 02 and 03, and as a result can eat seemingly unlimited quantities of spice without feeling its heat. However, she is capable of tasting other taste like salty, as she complained the sea water is salty in episode 04.",
+      "Her name is based on \"Satanachia\", a powerful demon who is the right-hand of Satan. Ironically, Satanichia is the most abused and often the most undermined in her group. ",
+      "Despite her loud and boastful personality, she is incredibly gullible and is easily manipulated by her 'friend' Raphael.",
+      "Her family owns a bakery in Hell named \"Kurumizawa Bakery\" which seems to be quite successful and based on the fact that she came from a middle-upper class family. Because of her family business, it's possibly the reason why she loves melon pan very much.",
+      "Both Angels love to bully Satania, since she is very naive and the Angels are very crafty. However, Gabriel tends to abuse her physically (albeit passively for counter attack purpose) and Raphiel tends to manipulate her (actively tricks her to make Satania as her toy and to an extent, slave).",
+      "Satania is the only character who has a pet both in Hell and Human World, Since she has a pet in her home world, it's most likely the reason why she cared about the dog.",
+      "Satania calls her friends with full name rather than nickname and refers to herself as \"Satanichia\" not \"Satania\", this is because of her pride which came from more successful family (except Raphiel).",
+      "In chronological and order of appearance Satania is the last main character to appear in the Anime, because Raphi was already seen during Gab's graduation. While in the Manga, Raphi is the last to appear.",
+      "The only time she has done something remotely devious is when she discovered Raphi's fear of frogs and chased after her with them.",
+      "Episode 8 reveals Satania is quite good at athletics."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": []
+    }
+  },
+  {
+    "id": 42,
+    "name": {
+      "romaji": "Vignette April Tsukinose",
+      "kanji": null,
+      "kana": "月乃瀬・ヴィネット・エイプリル"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/7/377188.jpg"
+    },
+    "source": {
+      "titleEng": "Gabriel DropOut",
+      "titleRomaji": "Gabriel DropOut",
+      "titleJp": "ガヴリールドロップアウト",
+      "malUrl": "https://myanimelist.net/anime/33731/Gabriel_DropOut"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 10, 
+        "day": 10,
+        "display": "October 10th"
+      },
+      "age": {
+        "chronological": null,
+        "appearance": 15,
+        "isEstimated": true,
+        "display": "Official unknown, 15 appearance"
+      },
+      "heightCm": 155,
+      "weightKg": 45,
+      "gender": "female",
+      "species": "demon",
+      "build": "petite",
+      "archetype": ["Mother-Figure", "Straight-Man", "Pure-Heart"],
+      "traits": ["purple-hair", "short-hair", "demon-horns-accessory", "school-uniform"]
+    },
+    "trivia": [
+      "Her name is based on the demon Vine, one of the lords of Hell under Satan's command. Ironically, Vine is one of the most dangerous demons. ",
+      "Vigne is the only main character who is an only child.",
+      "She is able to read minds.",
+      "Vigne has a pet in her home world, a hellhound named Chappy.",
+      "As shown in OVA 1, Vigne is censored by a \"God-class Holy Light\".",
+      "Her Japanese nickname Vigne (ヴィーネ Vīne) is read and spoken as the base figure of the character."
+    ],
+    "metadata": {
       "isSourceSafe": true,
       "warningTags": []
     }
   }
-
 ]
