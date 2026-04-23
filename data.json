@@ -2098,5 +2098,189 @@
       "isSourceSafe": true,
       "warningTags": []
     }
+  },
+  {
+    "id": 45,
+    "name": {
+      "romaji": "Furude Hanyū",
+      "kanji": "古手 羽入",
+      "kana": "ふるで はにゅう"
+    },
+    "images": {
+      "default": "https://static.wikia.nocookie.net/whentheycry/images/6/69/Ha_pc_god.png/revision/latest?cb=20140720234759"
+    },
+    "source": {
+      "titleEng": "Higurashi: When They Cry",
+      "titleRomaji": "Higurashi no Naku Koro ni Kai",
+      "titleJp": "ひぐらしのなく頃に解",
+      "malUrl": "https://myanimelist.net/anime/1889/Higurashi_no_Naku_Koro_ni_Kai"
+    },
+    "attributes": {
+      "birthday": null,
+      "age": {
+        "chronological": 1000,
+        "appearance": 10,
+        "isEstimated": true,
+        "display": "1000+ (Physically 10)"
+      },
+      "heightCm": null,
+      "weightKg": null,
+      "gender": "female",
+      "species": "spirit",
+      "build": "smol",
+      "archetype": ["Crying-Girl", "Guardian-Deity", "Dandere"],
+      "traits": ["purple-hair", "horns", "miko-outfit", "au-au-catchphrase"]
+    },
+    "trivia": [
+      "Hanyū's habit of ending her sentences with \"なのです\" (nano desu) is changed to \"sir\" in Yen Press' official manga translation. The same applies to Rika.",
+      "ἐγώ εἰμι: In the anime, Hanyū refers to herself as \"boku\" (僕) which is more informal than \"watashi\" (私) and was used almost exclusively by males at the time.",
+      "The events of Kotohogushi-hen were written by an author separate from Ryukishi, and the nature of the episode's canonicity relative to other installments of the franchise is vague and often debated."
+    ],
+    "metadata": {
+      "isSourceSafe": true,
+      "warningTags": ["character-tragedy", "existential-horror", "violence-in-source"]
+    }
+  },
+  {
+    "id": 46,
+    "name": {
+      "romaji": "Ryūgū Rena",
+      "kanji": "竜宮 レナ",
+      "kana": "りゅうぐう れな"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/13/264395.jpg"
+    },
+    "source": {
+      "titleEng": "Higurashi: When They Cry",
+      "titleRomaji": "Higurashi no Naku Koro ni",
+      "titleJp": "ひぐらしのなく頃に",
+      "malUrl": "https://myanimelist.net/anime/1889/Higurashi_no_Naku_Koro_ni_Kai"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 7, 
+        "day": 28,
+        "display": "July 28th"
+      },
+      "age": {
+        "chronological": 13,
+        "appearance": 13,
+        "isEstimated": false,
+        "display": "13"
+      },
+      "heightCm": 161,
+      "weightKg": null,
+      "gender": "female",
+      "species": "human",
+      "build": "petite",
+      "archetype": ["Yandere-lite", "Genki", "Tragic-Heroine"],
+      "traits": ["orange-hair", "blue-eyes", "hatchet", "white-dress", "verbal-tic"]
+    },
+    "trivia": [
+      "Even though she is usually depicted using her iconic pointy nata/hatchet in all adaptations of Onikaku-hen, in the Sound Novels she is described to be using a normal axe.",
+      "Just behind Rika, Rena has the second most expanded-upon backstory.",
+      "She has a half-sibling, born from her mother's affair with Akihito, though Rena has never shown any interest in her, after severing all ties with her mother.",
+      "Rena's real name \"Reina\" is also the Spanish word for \"queen\"",
+      "Rena's catchphrase \"I wonder, I wonder?\" (\"かな、かな?\" \"Kana, kana?\") is homophonous with \"カナカナ\" (\"kanakana\"), an alternative name for the Higurashi cicada based on the sound it makes.",
+      "Rena often speaks and writes in third-person, but mentally, she speaks normally in first-person. Where this habit came from is unknown, but she has had it ever since she was very young."
+    ],
+    "metadata": {
+      "isSourceSafe": false,
+      "warningTags": ["character-tragedy", "existential-horror", "violence-in-source"]
+    }
+  },
+  {
+    "id": 47,
+    "name": {
+      "romaji": "Furude Rika",
+      "kanji": "古手 梨花",
+      "kana": "ふるで りか"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/15/317398.jpg"
+    },
+    "source": {
+      "titleEng": "Higurashi: When They Cry",
+      "titleRomaji": "Higurashi no Naku Koro ni",
+      "titleJp": "ひぐらしのなく頃に",
+      "malUrl": "https://myanimelist.net/anime/1889/Higurashi_no_Naku_Koro_ni_Kai"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 8, 
+        "day": 21,
+        "display": "August 21st"
+      },
+      "age": {
+        "chronological": 11,
+        "appearance": 11,
+        "isEstimated": true,
+        "display": "11"
+      },
+      "heightCm": 137,
+      "weightKg": null,
+      "gender": "female",
+      "species": "human",
+      "build": "smol",
+      "archetype": ["Kuudere", "Miko", "Tragic-Heroine"],
+      "traits": ["purple-hair", "straight-bangs", "miko-outfit", "verbal-tic", "nipah"]
+    },
+    "trivia": [
+      "Rika's habit of ending her sentences with \"なのです\" (nano desu) is changed to \"sir\" in Yen Press' official manga translation. The same applies to Hanyū.",
+      "Prior to the new anime series, out of all the characters, Rika has died the greatest number of times. When They Cry, Wiki is not going to try to calculate if another character – Arg! Spoilers There be! Arg! – surpasses her.",
+      "Rika has not survived in any arc prior to Matsuribayashi-hen and Miotsukushi-hen.",
+      "\"Rika\" (梨花) means \"Pear Blossom.\" In language of flowers, pear blossom signifies lasting friendship and hope."
+    ],
+    "metadata": {
+      "isSourceSafe": false,
+      "warningTags": ["character-tragedy", "existential-horror", "violence-in-source"]
+    }
+  },
+  {
+    "id": 48,
+    "name": {
+      "romaji": "Hōjō Satoko",
+      "kanji": "北条 沙都子",
+      "kana": "ほうじょう さとこ"
+    },
+    "images": {
+      "default": "https://myanimelist.net/images/characters/3/438310.jpg"
+    },
+    "source": {
+      "titleEng": "Higurashi: When They Cry",
+      "titleRomaji": "Higurashi no Naku Koro ni",
+      "titleJp": "ひぐらしのなく頃に",
+      "malUrl": "https://myanimelist.net/anime/1889/Higurashi_no_Naku_Koro_ni_Kai"
+    },
+    "attributes": {
+      "birthday": {
+        "month": 6, 
+        "day": 24,
+        "display": "June 24th"
+      },
+      "age": {
+        "chronological": 11,
+        "appearance": 11,
+        "isEstimated": false,
+        "display": "11"
+      },
+      "heightCm": 137,
+      "weightKg": null,
+      "gender": "female",
+      "species": "human",
+      "build": "smol",
+      "archetype": ["Genki", "Tsundere-lite", "Prankster"],
+      "traits": ["blonde-hair", "red-headband", "yaeba", "ojousama-speech", "trap-expert"]
+    },
+    "trivia": [
+      "In Tsukiotoshi-hen, it was revealed by Rika that Satoko always eats Japanese style breakfast, usually rice with miso soup.",
+      "Her birthday is confirmed in the anime episode Cat Deceiving Chapter Part Four.",
+      "Her casual sprite in the original Visual Novels show her wearing a satchel behind her hip. She wears this in the third anime season's Nekodamashi-hen."
+    ],
+    "metadata": {
+      "isSourceSafe": false,
+      "warningTags": ["character-tragedy", "existential-horror", "violence-in-source"]
+    }
   }
 ]
