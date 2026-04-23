@@ -1372,6 +1372,7 @@
       "default": "https://myanimelist.net/images/characters/14/106807.jpg"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Fairy Tail",
       "titleRomaji": "Fairy Tail",
       "titleJp": "フェアリーテイル",
@@ -1412,6 +1413,7 @@
       "default": "https://myanimelist.net/images/characters/7/186859.jpg"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Fairy Tail",
       "titleRomaji": "Fairy Tail",
       "titleJp": "フェアリーテイル",
@@ -1453,6 +1455,7 @@
       "default": "https://myanimelist.net/images/characters/16/586073.jpg"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Fairy Tail",
       "titleRomaji": "Fairy Tail",
       "titleJp": "フェアリーテイル",
@@ -1494,6 +1497,7 @@
       "default": "https://myanimelist.net/images/characters/15/196491.jpg"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Fairy Tail",
       "titleRomaji": "Fairy Tail",
       "titleJp": "フェアリーテイル",
@@ -1538,6 +1542,7 @@
       "default": "https://myanimelist.net/images/characters/11/196497.jpg"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Fairy Tail",
       "titleRomaji": "Fairy Tail",
       "titleJp": "フェアリーテイル",
@@ -1584,6 +1589,7 @@
       "default": "https://myanimelist.net/images/characters/12/321733.jpg"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Fate/Apocrypha",
       "titleRomaji": "Fate/Apocrypha",
       "titleJp": "フェイト/アポクリファ",
@@ -1622,6 +1628,7 @@
       "default": "https://myanimelist.net/images/characters/5/334237.jpg"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Fate/Apocrypha",
       "titleRomaji": "Fate/Apocrypha",
       "titleJp": "フェイト/アポクリファ",
@@ -1664,6 +1671,7 @@
       "default": "hhttps://myanimelist.net/images/characters/4/317698.jpg"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Fate/Apocrypha",
       "titleRomaji": "Fate/Apocrypha",
       "titleJp": "フェイト/アポクリファ",
@@ -1702,6 +1710,7 @@
       "default": "https://myanimelist.net/images/characters/14/346384.jpg"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Fate/stay night",
       "titleRomaji": "Fate/stay night",
       "titleJp": "フェイト/ステイナイト",
@@ -1744,6 +1753,7 @@
       "default": "https://myanimelist.net/images/characters/14/294277.jpg"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Fate/stay night: Heaven's Feel",
       "titleRomaji": "Fate/stay night: Heaven's Feel",
       "titleJp": "フェイト/ステイナイト ヘブンズフィール",
@@ -1786,6 +1796,7 @@
       "default": "https://myanimelist.net/images/characters/2/384113.jpg"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Fruits Basket",
       "titleRomaji": "Fruits Basket",
       "titleJp": "フルーツバスケット",
@@ -1832,6 +1843,7 @@
       "default": "https://myanimelist.net/images/characters/5/324085.jpg"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Gabriel DropOut",
       "titleRomaji": "Gabriel DropOut",
       "titleJp": "ガヴリールドロップアウト",
@@ -1880,6 +1892,7 @@
       "default": "https://myanimelist.net/images/characters/12/339560.jpg"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Gabriel DropOut",
       "titleRomaji": "Gabriel DropOut",
       "titleJp": "ガヴリールドロップアウト",
@@ -1933,6 +1946,7 @@
       "default": "https://myanimelist.net/images/characters/7/377188.jpg"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Gabriel DropOut",
       "titleRomaji": "Gabriel DropOut",
       "titleJp": "ガヴリールドロップアウト",
@@ -1982,6 +1996,7 @@
       "default": "https://myanimelist.net/images/characters/16/244251.jpg"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Is the Order a Rabbit?",
       "titleRomaji": "Gochuumon wa Usagi Desu ka?",
       "titleJp": "ご注文はうさぎですか？",
@@ -2054,6 +2069,7 @@
       "default": "https://myanimelist.net/images/characters/11/242945.jpg"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Is the Order a Rabbit?",
       "titleRomaji": "Gochuumon wa Usagi Desu ka?",
       "titleJp": "ご注文はうさぎですか？",
@@ -2110,6 +2126,7 @@
       "default": "https://static.wikia.nocookie.net/whentheycry/images/6/69/Ha_pc_god.png/revision/latest?cb=20140720234759"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Higurashi: When They Cry",
       "titleRomaji": "Higurashi no Naku Koro ni Kai",
       "titleJp": "ひぐらしのなく頃に解",
@@ -2152,6 +2169,7 @@
       "default": "https://myanimelist.net/images/characters/13/264395.jpg"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Higurashi: When They Cry",
       "titleRomaji": "Higurashi no Naku Koro ni",
       "titleJp": "ひぐらしのなく頃に",
@@ -2201,6 +2219,7 @@
       "default": "https://myanimelist.net/images/characters/15/317398.jpg"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Higurashi: When They Cry",
       "titleRomaji": "Higurashi no Naku Koro ni",
       "titleJp": "ひぐらしのなく頃に",
@@ -2248,6 +2267,7 @@
       "default": "https://myanimelist.net/images/characters/3/438310.jpg"
     },
     "source": {
+      "mediaType": "anime",
       "titleEng": "Higurashi: When They Cry",
       "titleRomaji": "Higurashi no Naku Koro ni",
       "titleJp": "ひぐらしのなく頃に",
