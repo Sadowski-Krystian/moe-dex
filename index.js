@@ -5,6 +5,37 @@ function getAllCharacters() {
     return characters;
 }
 
+// [
+//     "chibi",    // Ultra-małe, przerysowane proporcje (np. 2-3 głowy wysokości)
+//     "smol",     // Mała, urocza budowa (główny target Moe)
+//     "petite",   // Drobna, ale o bardziej naturalnych/ludzkich proporcjach
+//     "slender",  // Szczupła, smukła, wysoka
+//     "average"   // Standardowa budowa, nie wyróżniająca się skrajnościami
+// ];
+
+// [
+//     "female",
+//     "male",
+//     "non-binary",
+//     "unknown"
+// ];
+
+// [
+//     "human",     // Zwykły człowiek
+//     "kitsune",   // Lisie cechy (uszy, ogon)
+//     "neko",      // Kocie cechy
+//     "dragon",    // Smoki (często w ludzkiej postaci, np. Kanna)
+//     "elf",       // Elfy
+//     "demon",     // Demony / Sukuby o uroczym designie (np. Shamiko)
+//     "angel",     // Anioły
+//     "deity",     // Boginie / Bóstwa
+//     "automaton", // Androidy, lalki, mecha-dziewczyny
+//     "spirit",    // Duchy, zjawy, byty astralne
+//     "vampire"    // Wampiry (często w wariancie loli/smol)
+// ];
+
+
+
 function getCharacterById(id) {
     if (typeof id !== 'number') {
         throw new Error("[Moe-Dex Error] 'id' must be a number.");
